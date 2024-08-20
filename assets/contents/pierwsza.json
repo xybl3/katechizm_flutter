@@ -1,0 +1,1960 @@
+{
+  "title": "Część pierwsza",
+  "startNum": 26,
+  "endNum": 1065,
+  "sectionCount": 2,
+  "chapters": [
+    {
+      "name": "Wprowadzenie",
+      "index": 1,
+      "startNum": 26,
+      "endNum": 26,
+      "sectionBelonged": "pierwszy",
+      "elements": [
+        {
+          "type": "paragraph",
+          "number": 26,
+          "content": "Gdy wyznajemy naszą wiarę, zaczynamy od słów: \"Wierzę\" lub \"Wierzymy\". Dlatego wykład wiary Kościoła wyznawanej w Credo, celebrowanej w liturgii oraz przeżywanej w praktykowaniu przykazań i w modlitwie, zaczynamy od pytania, co to znaczy \"wierzyć\".Wiara jest odpowiedzią człowieka daną Bogu, który mu się objawia i udziela, przynosząc równocześnie obfite światło człowiekowi poszukującemu ostatecznego sensu swego życia. Rozważymy więc najpierw to poszukiwanie Boga przez człowieka (rozdział pierwszy), następnie Objawienie Boże, przez które Bóg wychodzi naprzeciw człowiekowi (rozdział drugi), wreszcie odpowiedź wiary (rozdział trzeci)."
+        }
+      ]
+    },
+    {
+      "name": "Rodział pierwszy",
+      "index": 2,
+      "startNum": 27,
+      "endNum": 49,
+      "sectionBelonged": "pierwszy",
+      "elements": [
+        {
+          "type": "label",
+          "content": "I. Pragnienie Boga"
+        },
+        {
+          "type": "paragraph",
+          "number": 27,
+          "content": "Pragnienie Boga jest wpisane w serce człowieka, ponieważ został on stworzony przez Boga i dla Boga. Bóg nie przestaje przyciągać człowieka do siebie i tylko w Bogu człowiek znajdzie prawdę i szczęście, których nieustannie szuka: Szczególny charakter godności ludzkiej polega na powołaniu człowieka do łączności z Bogiem. Człowiek jest zaproszony do rozmowy z Bogiem już od chwili narodzin: istnieje on bowiem tylko dlatego, że stworzony przez Boga z miłości jest zawsze z miłości zachowywany, i nie żyje w pełnej zgodności z prawdą, jeżeli w sposób wolny nie uzna tej miłości i nie odda się Stworzycielowi."
+        },
+        {
+          "type": "comment",
+          "content": "Szczególny charakter godności ludzkiej polega na powołaniu człowieka do łączności z Bogiem. Człowiek jest zaproszony do rozmowy z Bogiem już od chwili narodzin: istnieje on bowiem tylko dlatego, że stworzony przez Boga z miłości jest zawsze z miłości zachowywany, i nie żyje w pełnej zgodności z prawdą, jeżeli w sposób wolny nie uzna tej miłości i nie odda się Stworzycielowi"
+        },
+        {
+          "type": "paragraph",
+          "number": 28,
+          "content": "W ciągu historii, aż do naszych czasów, ludzie w rozmaity sposób wyrażali swoje poszukiwanie Boga przez wierzenia i akty religijne (modlitwy, ofiary, kulty, medytacje itd.). Mimo niejednoznaczności, jaką one mogą w sobie zawierać, te formy wyrazu są tak powszechne, że człowiek może być nazwany istotą religijną."
+        },
+        {
+          "type": "comment",
+          "content": "On z jednego [człowieka] wyprowadził cały rodzaj ludzki, aby zamieszkiwał całą powierzchnię ziemi. Określił właściwe czasy i granice ich zamieszkania, aby szukali Boga, czy nie znajdą Go niejako po omacku. Bo w rzeczywistości jest On niedaleko od każdego z nas. Bo w Nim żyjemy, poruszamy się i jesteśmy (Dz 17, 26-28)."
+        },
+        {
+          "type": "paragraph",
+          "number": 29,
+          "content": "Człowiek może jednak zapomnieć o tym \"głębokim i żywotnym połączeniu z Bogiem\", może go nie dostrzegać, a nawet wprost je odrzucać. Źródła takich postaw mogą być bardzo zróżnicowane: bunt przeciw obecności zła w świecie, niewiedza lub obojętność religijna, troski doczesne i bogactwa, zły przykład wierzących, prądy umysłowe wrogie religii, a wreszcie skłonność człowieka grzesznego do ukrywania się ze strachu przed Bogiem i do ucieczki przed Jego wezwaniem"
+        },
+        {
+          "type": "paragraph",
+          "number": 30,
+          "content": "\"Niech się weseli serce szukających Pana\" (Ps 105, 3). Nawet jeśli człowiek może zapomnieć o Bogu lub Go odrzucić, to Bóg nie przestaje wzywać każdego człowieka, aby Go szukał, a dzięki temu znalazł życie i szczęście. Takie szukanie wymaga od człowieka całego wysiłku jego rozumu, prawości woli, \"szczerego serca\", a także świadectwa innych, którzy uczyliby go szukania Boga."
+        },
+        {
+          "type": "comment",
+          "content": "Jakże wielki jesteś, Panie, i godny, by Cię sławić. Wspaniała jest Twoja moc, a Twojej Mądrości nikt nie zmierzy. Pragnie Cię sławić człowiek, cząstka Twego stworzenia, który dźwiga swój śmiertelny los; nosi świadectwo swego grzechu i dowód tego, że Ty pysznym się sprzeciwiasz. A jednak pragnie Cię sławić ta cząstka Twego stworzenia. Ty sam sprawiasz, że znajduje on ukojenie w wielbieniu Ciebie. Stworzyłeś nas bowiem dla siebie i niespokojne jest nasze serce, dopóki nie spocznie w Tobie"
+        },
+        {
+          "type": "label",
+          "content": "II. Drogi prowadzące do poznania Boga"
+        },
+        {
+          "type": "paragraph",
+          "number": 31,
+          "content": " Człowiek stworzony na obraz Boga, powołany, by Go poznawać i miłować, szukając Boga, odkrywa pewne \"drogi\" wiodące do Jego poznania. Nazywa się je także \"dowodami na istnienie Boga\"; nie chodzi tu jednak o dowody, jakich poszukują nauki przyrodnicze, ale o \"spójne i przekonujące argumenty\", które pozwalają osiągnąć prawdziwą pewność.\r\nPunktem wyjścia tych \"dróg\" prowadzących do Boga jest stworzenie: świat materialny i osoba ludzka."
+        },
+        {
+          "type": "paragraph",
+          "number": 32,
+          "content": "Świat: biorąc za punkt wyjścia ruch i stawanie się, przygodność, porządek i piękno świata, można poznać Boga jako początek i cel wszechświata"
+        },
+        {
+          "type": "comment",
+          "content": "Święty Paweł stwierdza w odniesieniu do pogan: \"To bowiem, co o Bogu można poznać, jawne jest wśród nich, gdyż Bóg im to ujawnił. Albowiem od stworzenia świata niewidzialne Jego przymioty - wiekuista Jego potęga oraz bóstwo - stają się widzialne dla umysłu przez Jego dzieła\" (Rz 1, 19-20)"
+        },
+        {
+          "type": "comment",
+          "content": "Święty Augustyn mówi: \"Zapytaj piękno ziemi, morza, powietrza, które rozprzestrzenia się i rozprasza; zapytaj piękno nieba... zapytaj wszystko, co istnieje. Wszystko odpowie ci: Spójrz i zauważ, jakie to piękne. Piękno tego, co istnieje, jest jakby wyznaniem (confessio). Kto uczynił całe to piękno poddane zmianom, jeśli nie Piękny (Pulcher), nie podlegający żadnej zmianie?\" "
+        },
+        {
+          "type": "paragraph",
+          "number": 33,
+          "content": "Człowiek: zadaje sobie pytanie o istnienie Boga swoją otwartością na prawdę i piękno, swoim zmysłem moralnym, swoją wolnością i głosem sumienia, swoim dążeniem do nieskończoności i szczęścia. W tej wielorakiej otwartości dostrzega znaki swojej duchowej duszy. \"Zalążek wieczności, który w sobie nosi, nie może być sprowadzany do samej tylko materii\" - jego dusza może mieć początek tylko w Bogu."
+        },
+        {
+          "type": "paragraph",
+          "number": 34,
+          "content": "Świat i człowiek świadczą o tym, że nie mają w sobie ani swej pierwszej zasady, ani swego ostatecznego celu, ale uczestniczą w Bycie samym w sobie, który nie ma ani początku, ani końca. W ten sposób tymi różnymi \"drogami\" człowiek może dojść do poznania istnienia rzeczywistości, która jest pierwszą przyczyną i ostatecznym celem wszystkiego, \"a którą wszyscy nazywają Bogiem\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 35,
+          "content": "Władze człowieka uzdalniają go do poznania istnienia osobowego Boga. Aby jednak człowiek mógł zbliżyć się do Niego, Bóg zechciał objawić mu się i udzielić łaski, by mógł przyjąć to objawienie w wierze. Dowody na istnienie Boga mogą jednak przygotować człowieka do wiary i pomóc mu stwierdzić, że wiara nie sprzeciwia się rozumowi ludzkiemu."
+        },
+        {
+          "type": "label",
+          "content": "III. Poznanie Boga według nauczania Kościoła"
+        },
+        {
+          "type": "paragraph",
+          "number": 36,
+          "content": "\"Święta Matka Kościół utrzymuje i naucza, że naturalnym światłem rozumu ludzkiego można z rzeczy stworzonych w sposób pewny poznać Boga, początek i cel wszystkich rzeczy\" 12. Bez tej zdolności człowiek nie mógłby przyjąć Objawienia Bożego. Człowiek posiada tę zdolność, ponieważ jest stworzony \"na obraz Boży\""
+        },
+        {
+          "type": "paragraph",
+          "number": 37,
+          "content": "W konkretnych warunkach historycznych, w jakich się znajduje, człowiek napotyka jednak wiele trudności w poznaniu Boga za pomocą samego światła rozumu:"
+        },
+        {
+          "type": "comment",
+          "content": "Umysł ludzki zasadniczo mógłby o własnych siłach dojść do prawdziwego i pewnego poznania tak jedynego osobowego Boga, który przez swoją Opatrzność czuwa nad światem i nim rządzi, jak i prawa naturalnego, które Stwórca wypisał w naszych duszach. Skuteczne i owocne wykorzystanie za pomocą rozumu tych wrodzonych zdolności natrafia jednak w praktyce na liczne przeszkody. Prawdy dotyczące Boga oraz relacji między Bogiem i ludźmi przekraczają w sposób absolutny porządek rzeczy podpadających pod zmysły i gdy powinny one wyrazić się w czynach i kształtować życie, wymagają od człowieka poświęcenia i wyrzeczenia się siebie. Rozum ludzki natomiast w poszukiwaniu takich prawd napotyka trudności wynikające z wpływu zmysłów i wyobraźni oraz ze złych skłonności spowodowanych przez grzech pierworodny. Sprawia to, że w tych dziedzinach ludzie łatwo sugerują się błędem lub przynajmniej niepewnością w tym, czego nie chcą uznać za prawdę"
+        },
+        {
+          "type": "paragraph",
+          "number": 38,
+          "content": "Z tego powodu człowiek potrzebuje światła Objawienia Bożego nie tylko wtedy, gdy chodzi o to, co przekracza możliwości jego zrozumienia, lecz także, \"by nawet prawdy religijne i moralne, które same przez się nie są niedostępne rozumowi, w obecnym stanie rodzaju ludzkiego mogły być poznane przez wszystkich w sposób łatwy, z zupełną pewnością i bez domieszki błędu\""
+        },
+        {
+          "type": "label",
+          "content": "IV. Jak mówić o Bogu?"
+        },
+        {
+          "type": "paragraph",
+          "number": 39,
+          "content": "Broniąc zdolności rozumu ludzkiego do poznania Boga, Kościół wyraża swoją ufność w możliwość mówienia o Bogu wszystkim ludziom i z wszystkimi ludźmi. Przekonanie to stanowi podstawę jego dialogu z innymi religiami, z filozofią i nauką, a także z niewierzącymi i ateistami."
+        },
+        {
+          "type": "paragraph",
+          "number": 40,
+          "content": "Ponieważ nasze poznanie Boga jest ograniczone, ograniczeniom podlega również nasz język, którym mówimy o Bogu. Nie możemy określać Boga inaczej, jak tylko biorąc za punkt wyjścia stworzenie, i to tylko według naszego ludzkiego, ograniczonego sposobu poznania i myślenia."
+        },
+        {
+          "type": "paragraph",
+          "number": 41,
+          "content": "Wszystkie stworzenia noszą w sobie pewne podobieństwo do Boga, w szczególny sposób człowiek - stworzony na obraz i podobieństwo Boże. Różnorodne doskonałości stworzeń (ich prawda, dobro, piękno) odzwierciedlają więc nieskończoną doskonałość Boga. Dlatego też możemy Go określać na podstawie doskonałości Jego stworzeń, \"bo z wielkości i piękna stworzeń poznaje się przez podobieństwo ich Stwórcę\" (Mdr 13, 5)."
+        },
+        {
+          "type": "paragraph",
+          "number": 42,
+          "content": "Bóg przewyższa wszelkie stworzenia. Trzeba zatem nieustannie oczyszczać nasz język z tego, co ograniczone, obrazowe i niedoskonałe, by nie pomieszać \"niewypowiedzianego, niepojętego, niewidzialnego i nieuchwytnego\" Boga z naszymi ludzkimi sposobami wyrażania. Słowa ludzkie pozostają zawsze nieadekwatne wobec tajemnicy Boga."
+        },
+        {
+          "type": "paragraph",
+          "number": 43,
+          "content": "Mówiąc w ten sposób o Bogu, nasz język ujawnia wprawdzie swój ludzki charakter, ale w istocie odnosi się do samego Boga, chociaż nie może Go wyrazić w Jego nieskończonej prostocie. Trzeba bowiem pamiętać, że \"gdy wskazujemy na podobieństwo między Stwórcą i stworzeniem, to zawsze niepodobieństwo między nimi jest jeszcze większe\", i że \"mówiąc o Bogu, nie możemy określić, kim On jest, ale wyłącznie kim nie jest i jakie miejsce zajmują inne byty w stosunku do Niego\""
+        },
+        {
+          "type": "label",
+          "content": "W skrócie"
+        },
+        {
+          "type": "paragraph",
+          "number": 44,
+          "content": "Człowiek ze swej natury i powołania jest istotą religijną. Wychodząc od Boga i zdążając do Boga, człowiek tylko wtedy żyje życiem w pełni ludzkim, gdy w sposób wolny przeżywa swoją więź z Bogiem."
+        },
+        {
+          "type": "paragraph",
+          "number": 45,
+          "content": "Człowiek został stworzony do życia w komunii z Bogiem, w którym znajduje swoje szczęście. \"Gdy przylgnę do Ciebie całym sobą, skończy się wszelki ból i wszelki trud. Moje życie będzie życiem prawdziwym, całe napełnione Tobą\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 46,
+          "content": "Gdy człowiek słucha orędzia stworzeń i głosu swego sumienia, może osiągnąć pewność co do istnienia Boga, Przyczyny i Celu wszystkiego."
+        },
+        {
+          "type": "paragraph",
+          "number": 47,
+          "content": "Kościół naucza, że jedynego i prawdziwego Boga, naszego Stwórcę i Pana, można poznać w sposób pewny przez Jego dzieła, za pomocą naturalnego światła rozumu"
+        },
+        {
+          "type": "paragraph",
+          "number": 48,
+          "content": "Możemy rzeczywiście określać Boga, opierając się na różnorodnych doskonałościach stworzeń, podobnych do Boga nieskończenie doskonałego, nawet jeśli nasz ograniczony język nie wyczerpuje Jego tajemnicy."
+        },
+        {
+          "type": "paragraph",
+          "number": 49,
+          "content": "\"Stworzenie bez Stwórcy ginie\". Dlatego wierzący czują się przynaglani przez miłość Chrystusa, by nieść światło Boga żywego tym, którzy Go nie znają lub odrzucają"
+        }
+      ]
+    },
+    {
+      "name": "Rodział drugi",
+      "index": 3,
+      "startNum": 50,
+      "endNum": 141,
+      "sectionBelonged": "pierwszy",
+      "elements": [
+        {
+          "type": "paragraph",
+          "number": 50,
+          "content": "Za pomocą rozumu naturalnego człowiek może w sposób pewny poznać Boga na podstawie Jego dzieł. Istnieje jednak inny porządek poznania, do którego człowiek nie może dojść o własnych siłach; jest to porządek Objawienia Bożego. Na mocy swego całkowicie wolnego postanowienia Bóg objawia się i udziela człowiekowi. Czyni to, objawiając swoją tajemnicę, swój zamysł życzliwości, który odwiecznie przygotował w Chrystusie dla dobra wszystkich ludzi. Objawia w pełni swój zamysł, posyłając swego umiłowanego Syna, naszego Pana Jezusa Chrystusa, i Ducha Świętego."
+        },
+        {
+          "type": "article",
+          "content": "Artykuł pierwszy\nOBJAWIENIE BOŻE"
+        },
+        {
+          "type": "label",
+          "content": "I. Bóg objawia swój \"zamysł życzliwości\""
+        },
+        {
+          "type": "paragraph",
+          "number": 51,
+          "content": "\"Spodobało się Bogu w swej dobroci i mądrości objawić samego siebie i ukazać tajemnicę swej woli, dzięki której ludzie przez Chrystusa, Słowo, które stało się ciałem, mają dostęp do Ojca w Duchu Świętym i stają się współuczestnikami Bożej natury"
+        },
+        {
+          "type": "paragraph",
+          "number": 52,
+          "content": "Bóg, który zamieszkuje \"światłość niedostępną\" (1 Tm 6, 16), pragnie udzielać swojego Boskiego życia ludziom stworzonym w sposób wolny przez Niego, by w swoim jedynym Synu uczynić ich przybranymi synami. Objawiając siebie samego, Bóg pragnie uzdolnić ludzi do dawania Mu odpowiedzi, do poznawania Go i miłowania ponad to wszystko, do czego byliby zdolni sami z siebie."
+        },
+        {
+          "type": "paragraph",
+          "number": 53,
+          "content": "Boski zamysł Objawienia spełnia się równocześnie \"przez czyny i słowa wewnętrznie ze sobą połączone 4 oraz wyjaśniające się wzajemnie. Plan ten jest związany ze szczególną \"pedagogią Bożą\". Bóg stopniowo udziela się człowiekowi, przygotowuje go etapami na przyjęcie nadprzyrodzonego Objawienia, którego przedmiotem jest On sam, a które zmierza do punktu kulminacyjnego w Osobie i posłaniu Słowa Wcielonego, Jezusa Chrystusa."
+        },
+        {
+          "type": "comment",
+          "content": "Święty Ireneusz z Lyonu wielokrotnie mówi o tej pedagogii Bożej, posługując się obrazem wzajemnego przyzwyczajania się do siebie Boga i człowieka: \"Słowo Boże zamieszkało w człowieku i stało się Synem Człowieczym, by przyzwyczaić człowieka do objęcia Boga, a Boga do zamieszkiwania w człowieku, zgodnie z upodobaniem Ojca"
+        },
+        {
+          "type": "label",
+          "content": "II. Etapy Objawienia"
+        },
+        {
+          "type": "label",
+          "content": "Od początku Bóg pozwala się poznać"
+        },
+        {
+          "type": "paragraph",
+          "number": 54,
+          "content": "\"Bóg, który przez Słowo wszystko stwarza i zachowuje, daje ludziom w rzeczach stworzonych wieczne świadectwo o sobie. Zamierzając zaś otworzyć drogę zbawienia wiecznego, objawił ponadto siebie samego pierwszym rodzicom na początku. Wezwał ich do wewnętrznej komunii z sobą, przyoblekając ich blaskiem łaski i sprawiedliwości."
+        },
+        {
+          "type": "paragraph",
+          "number": 55,
+          "content": "Objawienie to nie zostało przerwane przez grzech naszych pierwszych rodziców. Rzeczywiście, Bóg \"po ich upadku wzbudził w nich nadzieję zbawienia przez obietnicę odkupienia; i bez przerwy troszczył się o rodzaj ludzki, by wszystkim, którzy przez wytrwanie w dobrym szukają zbawienia, dać żywot wieczny."
+        },
+        {
+          "type": "comment",
+          "content": "A gdy człowiek przez nieposłuszeństwo utracił Twoją przyjaźń, nie pozostawiłeś go pod władzą śmierci... Wielokrotnie zawierałeś przymierze z ludźmi"
+        },
+        {
+          "type": "label",
+          "content": "Przymierze z Noem"
+        },
+        {
+          "type": "paragraph",
+          "number": 56,
+          "content": "Gdy przez grzech została rozbita jedność rodzaju ludzkiego, Bóg dąży najpierw do ocalenia ludzkości, ratując jej poszczególne części. Przymierze z Noem po potopie 9 wyraża zasadę ekonomii Bożej wobec \"narodów\", czyli ludzi zgromadzonych \"według swych krajów i swego języka, według szczepów i według narodów\" (Rdz 10, 5) "
+        },
+        {
+          "type": "paragraph",
+          "number": 57,
+          "content": "Ten zarazem kosmiczny, społeczny i religijny porządek wielości narodów, ma na celu ograniczenie pychy upadłej ludzkości, która - jednomyślna w swej przewrotności - o własnych siłach chciała dojść do swojej jedności, budując wieżę Babel. Jednak z powodu grzechu politeizm oraz bałwochwalstwo narodu i jego przywódcy nieustannie zagrażają pogańską przewrotnością tej tymczasowej ekonomii."
+        },
+        {
+          "type": "paragraph",
+          "number": 58,
+          "content": "Przymierze z Noem pozostaje w mocy, dopóki trwa czas narodów, aż do powszechnego głoszenia Ewangelii. Biblia sławi niektóre wielkie postacie należące do \"narodów\": \"sprawiedliwego Abla\", króla i kapłana Melchizedeka, będącego figurą Chrystusa, oraz sprawiedliwych \"Noego, Daniela i Hioba\" (Ez 14, 14). Pismo święte pokazuje w ten sposób, jakie wyżyny świętości mogą osiągnąć ci, którzy żyją według przymierza zawartego z Noem w oczekiwaniu, aby Chrystus \"rozproszone dzieci Boże zgromadził w jedno\" (J 11, 52)"
+        },
+        {
+          "type": "label",
+          "content": "Bóg wybiera Abrahama"
+        },
+        {
+          "type": "paragraph",
+          "number": 59,
+          "content": "by zgromadzić w jedno rozproszoną ludzkość, Bóg wybiera Abrama, wzywając go do wyjścia \"z ziemi rodzinnej i z domu... ojca\" (Rdz 12, 1), aby uczynić go Abrahamem, to znaczy \"ojcem mnóstwa narodów\" (Rdz 17, 5): \"W tobie będą błogosławione wszystkie narody ziemi\" (Rdz 12, 3 LXX)."
+        },
+        {
+          "type": "paragraph",
+          "number": 60,
+          "content": "Lud pochodzący od Abrahama będzie powiernikiem obietnicy danej patriarchom, ludem wybranym, wezwanym, by pewnego dnia przygotować zgromadzenie wszystkich dzieci Bożych w jedności Kościoła. Ten lud będzie korzeniem, na którym zostaną zaszczepieni poganie stający się wierzącymi."
+        },
+        {
+          "type": "paragraph",
+          "number": 61,
+          "content": "Patriarchowie i prorocy oraz inne postacie Starego Testamentu byli i zawsze będą czczeni jako święci we wszystkich tradycjach liturgicznych Kościoła."
+        },
+        {
+          "type": "label",
+          "content": "Bóg formuje Izrael jako swój lud"
+        },
+        {
+          "type": "paragraph",
+          "number": 62,
+          "content": "Po patriarchach Bóg ukształtował Izrael jako swój lud, ocalając go z niewoli egipskiej. Zawiera z nim przymierze na Synaju i przez Mojżesza dał mu swoje Prawo, by uznał Go i służył Mu jako jedynemu prawdziwemu i żywemu Bogu, opatrznościowemu Ojcu i sprawiedliwemu Sędziemu, oraz by oczekiwał obiecanego Zbawiciela"
+        },
+        {
+          "type": "paragraph",
+          "number": 63,
+          "content": "Izrael jest kapłańskim Ludem Bożym, na którym \"imię Pana zostało wezwane\" (Pwt 28,10). Jest to lud tych, \"do których przodków Pan Bóg przemawiał, lud \"starszych braci\" w wierze Abrahama."
+        },
+        {
+          "type": "paragraph",
+          "number": 64,
+          "content": "Przez proroków Bóg formuje swój lud w nadziei zbawienia, w oczekiwaniu nowego i wiecznego Przymierza przeznaczonego dla wszystkich ludzi, Przymierza, które będzie wypisane w sercach. Prorocy głoszą radykalne odkupienie Ludu Bożego, oczyszczenie ze wszystkich jego niewierności, zbawienie, które obejmie wszystkie narody. O tej nadziei będą świadczyć przede wszystkim ubodzy i pokorni Pana. Żywą nadzieję zbawienia Izraela zachowały święte kobiety: Sara, Rebeka, Rachela, Miriam, Debora, Anna, Judyta i Estera.  Najdoskonalszym obrazem tej nadziei jest Maryja."
+        },
+        {
+          "type": "label",
+          "content": "III. Chrystus Jezus - \"Pośrednik i Pełnia całego Objawienia\""
+        },
+        {
+          "type": "label",
+          "content": "Bóg powiedział wszystko w swoim Słowie"
+        },
+        {
+          "type": "paragraph",
+          "number": 65,
+          "content": "\"Wielokrotnie i na różne sposoby przemawiał niegdyś Bóg do ojców przez proroków, a w tych ostatecznych dniach przemówił do nas przez Syna\" (Hbr 1, 1-2). Chrystus, Syn Boży, który stał się człowiekiem, jest jedynym, doskonałym i ostatecznym Słowem Ojca. W Nim powiedział On wszystko i nie będzie już innego słowa oprócz Niego. Obok wielu innych doskonale to wyraża św. Jan od Krzyża, komentując Hbr 1, 1-2:"
+        },
+        {
+          "type": "comment",
+          "content": "Od kiedy Bóg dał nam swego Syna, który jest Jego jedynym Słowem, nie ma innych słów do dania nam. Przez to jedno Słowo powiedział nam wszystko naraz i nie ma już nic więcej do powiedzenia (...) To bowiem, o czym częściowo mówił dawniej przez proroków, wypowiedział już całkowicie w Nim dając nam Go całego, to jest swojego Syna. Jeśli więc dzisiaj ktoś chciałby Go jeszcze o coś pytać lub prosić o jakąś wizję lub objawienie, nie tylko postępowałby nieroztropnie, lecz także obrażałby Boga, nie mając oczu utkwionych jedynie w Chrystusa bądź szukając poza Nim innej rzeczy albo nowości"
+        },
+        {
+          "type": "label",
+          "content": "Nie będzie innego objawienia"
+        },
+        {
+          "type": "paragraph",
+          "number": 66,
+          "content": "\"Chrześcijańska ekonomia zbawienia, jako nowe i ostateczne przymierze, nigdy nie przeminie i nie należy już więcej oczekiwać żadnego publicznego objawienia przed chwalebnym ukazaniem się Pana naszego, Jezusa Chrystusa\". Chociaż jednak Objawienie zostało już zakończone, to nie jest jeszcze całkowicie wyjaśnione; zadaniem wiary chrześcijańskiej w ciągu wieków będzie stopniowe wnikanie w jego znaczenie."
+        },
+        {
+          "type": "paragraph",
+          "number": 67,
+          "content": "W historii zdarzały się tak zwane objawienia prywatne; niektóre z nich zostały uznane przez autorytet Kościoła. Nie należą one jednak do depozytu wiary. Ich rolą nie jest \"ulepszanie\" czy \"uzupełnianie\" ostatecznego Objawienia Chrystusa, lecz pomoc w pełniejszym przeżywaniu go w jakiejś epoce historycznej. Zmysł wiary wiernych, kierowany przez Urząd Nauczycielski Kościoła, umie rozróżniać i przyjmować to, co w tych objawieniach stanowi autentyczne wezwanie Chrystusa lub świętych skierowane do Kościoła.\r\nWiara chrześcijańska nie może przyjąć \"objawień\" zmierzających do przekroczenia czy poprawienia Objawienia, którego Chrystus jest wypełnieniem. Chodzi w tym wypadku o pewne religie niechrześcijańskie, a także o pewne ostatnio powstałe sekty, które opierają się na takich \"objawieniach\""
+        },
+        {
+          "type": "label",
+          "content": "W skrócie"
+        },
+        {
+          "type": "paragraph",
+          "number": 68,
+          "content": "Bóg z miłości objawił się i udzielił człowiekowi. Przynosi w ten sposób ostateczną i przeobfitą odpowiedź na pytania, jakie stawia sobie człowiek o sens i cel swego życia."
+        },
+        {
+          "type": "paragraph",
+          "number": 69,
+          "content": "Bóg objawił się człowiekowi, odsłaniając przed nim stopniowo swoją tajemnicę przez czyny i przez słowa."
+        },
+        {
+          "type": "paragraph",
+          "number": 70,
+          "content": "Poza świadectwem, jakie Bóg daje o sobie w rzeczach stworzonych, objawił On siebie samego naszym pierwszym rodzicom. Mówił do nich, a po upadku obiecał im zbawienie i ofiarował swoje przymierze."
+        },
+        {
+          "type": "paragraph",
+          "number": 71,
+          "content": "Bóg zawarł wieczne przymierze z Noem i wszystkimi istotami żyjącymi. Będzie ono trwało, dopóki trwa świat."
+        },
+        {
+          "type": "paragraph",
+          "number": 72,
+          "content": "Bóg wybrał Abrahama i zawarł przymierze z nim i jego potomstwem. Uformował z niego swój lud, któremu przez Mojżesza objawił swoje Prawo. Przez proroków przygotowywał ten lud na przyjęcie zbawienia przeznaczonego dla całego rodzaju ludzkiego."
+        },
+        {
+          "type": "paragraph",
+          "number": 73,
+          "content": "Bóg objawił się w pełni, posyłając swego Syna, w którym ustanowił wieczne Przymierze. Jest On ostatecznym Słowem Ojca; nie będzie już po Nim innego objawienia."
+        },
+        {
+          "type": "article",
+          "content": "Artykuł drugi\nPRZEKAZYWANIE OBJAWIENIA BOŻEGO"
+        },
+        {
+          "type": "paragraph",
+          "number": 74,
+          "content": "Bóg \"pragnie, by wszyscy ludzie zostali zbawieni i doszli do poznania prawdy\" (1 Tm 2, 4), czyli Chrystusa Jezusa. Jest więc konieczne, by Chrystus był głoszony wszystkim narodom i wszystkim ludziom, i by w ten sposób Objawienie docierało aż na krańce świata."
+        },
+        {
+          "type": "comment",
+          "content": "Bóg najłaskawiej postanowił, aby to, co dla zbawienia wszystkich narodów objawił, pozostało na zawsze zachowane w całości i przekazywane było wszystkim pokoleniom."
+        },
+        {
+          "type": "label",
+          "content": "I. Tradycja apostolska"
+        },
+        {
+          "type": "paragraph",
+          "number": 75,
+          "content": "\"Chrystus Pan, w którym całe Objawienie Boga najwyższego znajduje swe dopełnienie, polecił Apostołom, by Ewangelię przyobiecaną przedtem przez Proroków, którą sam wypełnił i ustami własnymi obwieścił, głosili wszystkim, jako źródło wszelkiej prawdy zbawiennej i normy moralnej, przekazując im dary Boże\""
+        },
+        {
+          "type": "label",
+          "content": "Przepowiadanie apostolskie..."
+        },
+        {
+          "type": "paragraph",
+          "number": 76,
+          "content": "Przekazywanie Ewangelii, zgodnie z nakazem Pana, dokonuje się dwoma sposobami:\r\nUstnie: za pośrednictwem \"Apostołów, którzy nauczaniem ustnym, przykładami i instytucjami przekazali to, co otrzymali z ust Chrystusa, z Jego zachowania się i czynów, albo czego nauczyli się od Ducha Świętego\";\r\nPisemnie: \"przez tych Apostołów i mężów apostolskich, którzy wspierani natchnieniem tegoż Ducha Świętego, na piśmie utrwalili wieść o zbawieniu ...kontynuowane przez sukcesję apostolską"
+        },
+        {
+          "type": "paragraph",
+          "number": 77,
+          "content": "Aby Ewangelia była zawsze w swej całości i żywotności w Kościele zachowywana, zostawili apostołowie biskupów jako następców swoich «przekazując im swoje stanowisko nauczycielskie». Rzeczywiście, \"nauczanie apostolskie, które w szczególny sposób wyrażone jest w księgach natchnionych, miało być zachowane w ciągłym następstwie aż do czasów ostatecznych"
+        },
+        {
+          "type": "paragraph",
+          "number": 78,
+          "content": "To żywe przekazywanie, wypełniane w Duchu Świętym, jest nazywane Tradycją w odróżnieniu od Pisma świętego, z którym jednak jest ściśle powiązane. Przez Tradycję \"Kościół w swej nauce, w swym życiu i kulcie uwiecznia i przekazuje wszystkim pokoleniom to wszystko, czym on jest, i to wszystko, w co wierzy. \"Wypowiedzi Ojców świętych świadczą o obecności tej życiodajnej Tradycji, której bogactwa przelewają się w działalność i życie wierzącego i modlącego się Kościoła"
+        },
+        {
+          "type": "paragraph",
+          "number": 79,
+          "content": "W ten sposób udzielanie się Ojca, którego dokonał On przez swoje Słowo w Duchu Świętym, pozostaje obecne i aktywne w Kościele: \"Bóg, który niegdyś przemówił, rozmawia bez przerwy z Oblubienicą swego Syna ukochanego, a Duch Święty, przez którego żywy głos Ewangelii rozbrzmiewa w Kościele, a przez Kościół w świecie, wprowadza wiernych we wszelką prawdę oraz sprawia, że słowo Chrystusowe obficie w nich mieszka"
+        },
+        {
+          "type": "label",
+          "content": "II. Relacja między Tradycją i Pismem świętym"
+        },
+        {
+          "type": "label",
+          "content": "Wspólne źródło..."
+        },
+        {
+          "type": "paragraph",
+          "number": 80,
+          "content": "\"Tradycja święta i Pismo święte ściśle się z sobą łączą i komunikują... wypływając z tego samego źródła Bożego, zrastają się jakoś w jedno i zdążają do tego samego celu. Tradycja i Pismo święte uobecniają i ożywiają w Kościele misterium Chrystusa, który obiecał pozostać ze swoimi \"przez wszystkie dni, aż do skończenia świata\" (Mt 28, 20)."
+        },
+        {
+          "type": "label",
+          "content": "...dwóch różnych sposobów przekazywania"
+        },
+        {
+          "type": "paragraph",
+          "number": 81,
+          "content": "Pismo święte jest mową Bożą, utrwaloną pod natchnieniem Ducha Świętego na piśmie.\r\nŚwięta Tradycja słowo Boże przez Chrystusa Pana i Ducha Świętego powierzone Apostołom przekazuje w całości ich następcom, by oświeceni Duchem Prawdy, wiernie je w swym nauczaniu zachowywali, wyjaśniali i rozpowszechniali\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 82,
+          "content": "Wynika z tego, że Kościół, któremu zostało powierzone przekazywanie i interpretowanie Objawienia, \"osiąga pewność swoją co do wszystkich spraw objawionych nie przez samo Pismo święte. Toteż obydwoje należy z równym uczuciem czci i poważania przyjmować i mieć w poszanowaniu"
+        },
+        {
+          "type": "paragraph",
+          "number": 83,
+          "content": "Tradycja apostolska, o której tu mówimy, pochodzi od Apostołów i przekazuje to, co oni otrzymali z nauczania i przykładu Jezusa, oraz to, czego nauczył ich Duch Święty. Pierwsze pokolenie chrześcijan nie miało jeszcze spisanego Nowego Testamentu; sam Nowy Testament poświadcza więc proces żywej Tradycji.\r\nOd Tradycji apostolskiej należy odróżnić \"tradycje\" teologiczne, dyscyplinarne, liturgiczne i pobożnościowe, jakie uformowały się w ciągu wieków w Kościołach lokalnych. Stanowią one szczególne formy, przez które wielka Tradycja wyraża się stosownie do różnych miejsc i różnych czasów. W jej świetle mogą one być podtrzymywane, modyfikowane lub nawet odrzucane pod przewodnictwem Urzędu Nauczycielskiego Kościoła."
+        },
+        {
+          "type": "label",
+          "content": "III. Interpretacja depozytu wiary"
+        },
+        {
+          "type": "label",
+          "content": "Depozyt wiary powierzony całemu Kościołowi"
+        },
+        {
+          "type": "paragraph",
+          "number": 84,
+          "content": "\"Święty depozyt wiary (depositum fidei), zawarty w świętej Tradycji i Piśmie świętym, został powierzony przez Apostołów wspólnocie Kościoła. \"Na nim polegając, cały lud święty zjednoczony ze swymi pasterzami trwa stale w nauce Apostołów, we wspólnocie braterskiej, w łamaniu chleba i w modlitwach, tak iż szczególna zaznacza się jednomyślność przełożonych i wiernych w zachowywaniu przekazanej wiary, w praktykowaniu jej i wyznawaniu."
+        },
+        {
+          "type": "label",
+          "content": "Urząd Nauczycielski Kościoła"
+        },
+        {
+          "type": "paragraph",
+          "number": 85,
+          "content": "\"Zadanie autentycznej interpretacji słowa Bożego, spisanego czy przekazanego przez Tradycję, powierzone zostało samemu tylko żywemu Urzędowi Nauczycielskiemu Kościoła, który autorytatywnie działa w imieniu Jezusa Chrystusa, to znaczy biskupom w komunii z następcą Piotra, Biskupem Rzymu."
+        },
+        {
+          "type": "paragraph",
+          "number": 86,
+          "content": "\"Urząd ten Nauczycielski nie jest ponad słowem Bożym, lecz jemu służy, nauczając tylko tego, co zostało przekazane. Z rozkazu Bożego i przy pomocy Ducha Świętego słucha on pobożnie słowa Bożego, święcie go strzeże i wiernie wyjaśnia. I wszystko, co podaje do wierzenia jako objawione przez Boga, czerpie z tego jednego depozytu wiary\""
+        },
+        {
+          "type": "paragraph",
+          "number": 87,
+          "content": "Pamiętając o słowach Chrystusa skierowanych do Apostołów: \"Kto was słucha, Mnie słucha\" (Łk 10, 16) 52 , wierni z uległością przyjmują nauczanie i wskazania, które są im przekazywane w różnych formach przez ich pasterzy."
+        },
+        {
+          "type": "label",
+          "content": "Dogmaty wiary"
+        },
+        {
+          "type": "paragraph",
+          "number": 88,
+          "content": "Urząd Nauczycielski Kościoła w pełni angażuje władzę otrzymaną od Chrystusa, gdy definiuje dogmaty, to znaczy, gdy w formie zobowiązującej lud chrześcijański do nieodwołalnego przylgnięcia przez wiarę przedkłada prawdy zawarte w Objawieniu Bożym lub kiedy proponuje w sposób definitywny prawdy, mające z nim konieczny związek"
+        },
+        {
+          "type": "paragraph",
+          "number": 89,
+          "content": "Między naszym życiem duchowym i dogmatami istnieje organiczna więź. Dogmaty są światłem na drodze naszej wiary; oświecają ją i nadają jej pewność. I na odwrót, jeśli nasze życie jest prawe, to nasz rozum i nasze serce są otwarte na przyjęcie światła dogmatów wiary"
+        },
+        {
+          "type": "paragraph",
+          "number": 90,
+          "content": "Wzajemne związki i spójność dogmatów można odnaleźć w całości Objawienia tajemnicy Chrystusa.  Trzeba bowiem pamiętać, że \"różnorodność ich związków z podstawami wiary chrześcijańskiej wyznacza porządek, czyli «hierarchię» prawd nauki katolickiej\""
+        },
+        {
+          "type": "label",
+          "content": "Nadprzyrodzony zmysł wiary"
+        },
+        {
+          "type": "paragraph",
+          "number": 91,
+          "content": "Wszyscy wierni uczestniczą w zrozumieniu i przekazywaniu prawdy objawionej. Otrzymali oni namaszczenie od Ducha Świętego, który ich poucza i prowadzi do całej prawdy"
+        },
+        {
+          "type": "paragraph",
+          "number": 92,
+          "content": "\"Ogół wiernych... nie może zbłądzić w wierze i tę szczególną swoją właściwość ujawnia przez nadprzyrodzony zmysł wiary całego ludu, gdy «poczynając od biskupów aż po ostatniego z wiernych świeckich» ujawnia on swą powszechną zgodność w sprawach wiary i obyczajów\""
+        },
+        {
+          "type": "paragraph",
+          "number": 93,
+          "content": "\"Dzięki owemu zmysłowi wiary, wzbudzonemu i podtrzymywanemu przez Ducha Prawdy, Lud Boży pod przewodem świętego Urzędu Nauczycielskiego... niezachwianie trwa przy wierze raz podanej świętym; wnika w nią głębiej z pomocą słusznego osądu i w sposób pewniejszy stosuje ją w życiu\""
+        },
+        {
+          "type": "label",
+          "content": "Wzrost w rozumieniu wiary"
+        },
+        {
+          "type": "paragraph",
+          "number": 94,
+          "content": "Dzięki pomocy Ducha Świętego w życiu Kościoła może wzrastać rozumienie zarówno rzeczywistości, jak też słów depozytu wiary:\r\n- przez \"kontemplację oraz dociekanie wiernych, którzy rozważają je w swoim sercu\", szczególnie przez \"dociekania teologiczne, które zmierzają do coraz głębszego poznania prawdy objawionej\" 61;\r\n- przez głębokie rozumienie \"spraw duchowych\", których doświadczają wierzący; Divina eloquia cum legente crescunt - \"Słowa Boże wzrastają wraz z tym, kto je czyta\";\r\n- przez \"nauczanie tych, którzy wraz z sukcesją biskupią otrzymali niezawodny charyzmat prawdy\""
+        },
+        {
+          "type": "paragraph",
+          "number": 95,
+          "content": "\"Jasne więc jest, że święta Tradycja, Pismo święte i Urząd Nauczycielski Kościoła, wedle najmądrzejszego postanowienia Bożego, tak ściśle ze sobą się łączą i zespalają, że jedno bez pozostałych nie może istnieć, a wszystkie te czynniki razem, każdy na swój sposób, pod natchnieniem jednego Ducha Świętego przyczyniają się skutecznie do zbawienia dusz\""
+        },
+        {
+          "type": "label",
+          "content": "W skrócie"
+        },
+        {
+          "type": "paragraph",
+          "number": 96,
+          "content": "To, co Chrystus powierzył Apostołom, przekazali oni przez swoje przepowiadanie i pisma, pod natchnieniem Ducha Świętego, wszystkim pokoleniom, aż do chwalebnego powrotu Chrystusa."
+        },
+        {
+          "type": "paragraph",
+          "number": 97,
+          "content": "\"Święta Tradycja i Pismo święte stanowią jeden święty depozyt słowa Bożego\", w którym - jak w zwierciadle - Kościół pielgrzymujący kontempluje Boga, źródło wszystkich swoich bogactw."
+        },
+        {
+          "type": "paragraph",
+          "number": 98,
+          "content": "\"Kościół w swojej nauce, w swoim życiu i kulcie uwiecznia i przekazuje wszystkim pokoleniom to wszystko, czym on jest, i to wszystko, w co wierzy\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 99,
+          "content": "Dzięki nadprzyrodzonemu zmysłowi wiary cały Lud Boży nieustannie przyjmuje dar Objawienia Bożego, wnika w nie coraz głębiej i coraz pełniej nim żyje."
+        },
+        {
+          "type": "paragraph",
+          "number": 100,
+          "content": "Zadanie autentycznej interpretacji słowa Bożego zostało powierzone samemu Urzędowi Nauczycielskiemu Kościoła, papieżowi i biskupom pozostającym w komunii z nim."
+        },
+        {
+          "type": "article",
+          "content": "Artykuł trzeci\nPISMO ŚWIĘTE"
+        },
+        {
+          "type": "label",
+          "content": "I. Chrystus - jedyne Słowo Pisma świętego"
+        },
+        {
+          "type": "paragraph",
+          "number": 101,
+          "content": "Bóg, zstępując w swej dobroci, by objawić się ludziom, przemawia do nich ludzkimi słowami: \"Słowa Boże, wyrażone językami ludzkimi, upodobniły się do mowy ludzkiej, jak niegdyś Słowo Ojca Przedwiecznego, przyjąwszy słabe ciało ludzkie, upodobniło się do ludzi\""
+        },
+        {
+          "type": "paragraph",
+          "number": 102,
+          "content": "Przez wszystkie słowa Pisma świętego Bóg wypowiada tylko jedno Słowo, swoje jedyne Słowo, w którym wypowiada się cały"
+        },
+        {
+          "type": "comment",
+          "content": "Pamiętajcie, że to samo Słowo Boże rozciąga się na wszystkie księgi, że to samo Słowo rozbrzmiewa na ustach wszystkich świętych pisarzy. To Słowo, które było na początku u Boga, nie potrzebuje sylab, ponieważ nie jest zależne od czasu ."
+        },
+        {
+          "type": "paragraph",
+          "number": 103,
+          "content": "Z tego powodu Kościół zawsze czcił Pismo święte, podobnie jak czci Ciało Pana. Nie przestaje ukazywać wiernym Chleba życia branego ze stołu Słowa Bożego i Ciała Chrystusa"
+        },
+        {
+          "type": "paragraph",
+          "number": 104,
+          "content": "W Piśmie świętym Kościół nieustannie znajduje swój pokarm i swoją moc, ponieważ przyjmuje w nim nie tylko słowo ludzkie, ale to, czym jest ono rzeczywiście: Słowo Boże. \"W księgach świętych Ojciec, który jest w niebie, spotyka się miłościwie ze swymi dziećmi i prowadzi z nimi rozmowę\""
+        },
+        {
+          "type": "label",
+          "content": "II. Natchnienie i prawda Pisma świętego"
+        },
+        {
+          "type": "paragraph",
+          "number": 105,
+          "content": "Bóg jest Autorem Pisma świętego. \"Prawdy przez Boga objawione, które są zawarte i wyrażone w Piśmie świętym, spisane zostały pod natchnieniem Ducha Świętego.\r\nŚwięta Matka Kościół uważa, na podstawie wiary apostolskiej, księgi tak Starego, jak Nowego Testamentu w całości, ze wszystkimi ich częściami za święte i kanoniczne, dlatego że, spisane pod natchnieniem Ducha Świętego, Boga mają za Autora i jako takie zostały Kościołowi przekazane\" "
+        },
+        {
+          "type": "paragraph",
+          "number": 106,
+          "content": "Bóg natchnął ludzkich autorów ksiąg świętych. \"Do sporządzenia ksiąg świętych Bóg wybrał ludzi, którymi posłużył się jako używającymi swoich zdolności i sił, by dzięki Jego działaniu w nich i przez nich oni sami jako prawdziwi autorzy przekazali na piśmie to wszystko, i tylko to, czego On chciał\""
+        },
+        {
+          "type": "paragraph",
+          "number": 107,
+          "content": "Księgi natchnione nauczają prawdy. \"Ponieważ wszystko, co twierdzą autorzy natchnieni, czyli hagiografowie, powinno być uważane za stwierdzone przez Ducha Świętego, należy zatem uznawać, że księgi biblijne w sposób pewny, wiernie i bez błędu uczą prawdy, jaka z woli Bożej miała być przez Pismo święte utrwalona dla naszego zbawienia\""
+        },
+        {
+          "type": "paragraph",
+          "number": 108,
+          "content": "Wiara chrześcijańska nie jest jednak \"religią Księgi\". Chrześcijaństwo jest religią \"Słowa\" Bożego: \"Słowa nie spisanego, lecz Słowa Wcielonego i żywego\". Aby słowa Pisma świętego nie pozostawały martwą literą, trzeba, by Chrystus, wieczne Słowo Boga żywego, przez Ducha Świętego oświecił nasze umysły, abyśmy \"rozumieli Pisma\"(Łk 24,45)."
+        },
+        {
+          "type": "label",
+          "content": "III. Duch Święty - \"Interpretator\" Pisma świętego"
+        },
+        {
+          "type": "paragraph",
+          "number": 109,
+          "content": "W Piśmie świętym Bóg mówi do człowieka w sposób ludzki. Aby dobrze interpretować Pismo święte, trzeba więc zwracać uwagę na to, co autorzy ludzcy rzeczywiście zamierzali powiedzieć i co Bóg chciał nam ukazać przez ich słowa"
+        },
+        {
+          "type": "paragraph",
+          "number": 110,
+          "content": "W celu zrozumienia intencji autorów świętych trzeba uwzględnić okoliczności ich czasu i kultury, \"rodzaje literackie\" używane w danej epoce, a także przyjęte sposoby myślenia, mówienia i opowiadania. Inaczej bowiem ujmuje się i wyraża prawdę w różnego rodzaju tekstach historycznych, prorockich, poetyckich czy w innych rodzajach literackich "
+        },
+        {
+          "type": "paragraph",
+          "number": 111,
+          "content": "Ponieważ Pismo święte jest natchnione, istnieje druga zasada poprawnej interpretacji, nie mniej ważna niż poprzednia, bez której Pismo święte byłoby martwą literą: \"Pismo święte powinno być czytane i interpretowane w tym samym Duchu, w jakim zostało napisane\".\r\nSobór Watykański II wskazuje na trzy kryteria interpretacji Pisma świętego, odpowiadające Duchowi, który je natchnął"
+        },
+        {
+          "type": "paragraph",
+          "number": 112,
+          "content": " 1. Zwracać uwagę przede wszystkim na \"treść i jedność całego Pisma świętego\". Jakkolwiek byłyby zróżnicowane księgi, z których składa się Pismo święte, to jest ono jednak jedno ze względu na jedność Bożego zamysłu, którego Jezus Chrystus jest ośrodkiem i sercem, otwartym po wypełnieniu Jego Paschy:"
+        },
+        {
+          "type": "comment",
+          "content": "Serce Chrystusa oznacza Pismo święte, które pozwala poznać serce Chrystusa. Przed męką serce Chrystusa było zamknięte, ponieważ Pismo święte było niejasne. Pismo święte zostało otwarte po męce, by ci, którzy je teraz rozumieją, wiedzieli i rozeznawali, w jaki sposób powinny być interpretowane proroctwa"
+        },
+        {
+          "type": "paragraph",
+          "number": 113,
+          "content": "2. Czytać Pismo święte w \"żywej Tradycji całego Kościoła\". Według powiedzenia Ojców Kościoła, Sacra Scriptura principalius est in corde Ecclesiae et quam in materialibus instrumentis scripta - \"Pismo święte jest bardziej wypisane na sercu Kościoła niż na pergaminie\". Istotnie, Kościół nosi w swojej Tradycji żywą pamięć słowa Bożego, a Duch Święty przekazuje mu duchową interpretację Pisma świętego (secundum spiritualem sensum quem Spiritus donat Ecclesiae \"według sensu duchowego, który Duch daje Kościołowi\""
+        },
+        {
+          "type": "paragraph",
+          "number": 114,
+          "content": "3. Uwzględniać \"analogię wiary\". Przez \"analogię wiary\" rozumiemy spójność prawd wiary między sobą i w całości planu Objawienia."
+        },
+        {
+          "type": "label",
+          "content": "Różne sensy Pisma świętego"
+        },
+        {
+          "type": "paragraph",
+          "number": 115,
+          "content": "Według starożytnej tradycji można wyróżnić dwa rodzaje sensu Pisma świętego: dosłowny i duchowy; sens duchowy dzieli się jeszcze na sens alegoryczny, moralny i anagogiczny. Ścisła zgodność między tymi czterema rodzajami sensu zapewnia całe jego bogactwo w żywej lekturze Pisma świętego w Kościele:"
+        },
+        {
+          "type": "paragraph",
+          "number": 116,
+          "content": "Sens dosłowny. Jest to sens oznaczany przez słowa Pisma świętego i odkrywany przez egzegezę, która opiera się na zasadach poprawnej interpretacji. Omnes sensus (sc. sacrae Scripturae) fundentur super unum, scilicetlitteralem - \"Wszystkie rodzaje sensu Pisma świętego powinny się opierać na sensie dosłownym\""
+        },
+        {
+          "type": "paragraph",
+          "number": 117,
+          "content": "Sens duchowy. Ze względu na jedność zamysłu Bożego nie tylko tekst Pisma świętego, lecz także rzeczywistości i wydarzenia, o których mówi, mogą być znakami1.\r\n1.Sens alegoryczny. Możemy osiągnąć głębsze zrozumienie wydarzeń, poznając ich znaczenie w Chrystusie. Na przykład przejście przez Morze Czerwone jest znakiem zwycięstwa Chrystusa, a przez to także znakiem chrztu.\r\n2. Sens moralny. Wydarzenia opowiadane w Piśmie świętym powinny prowadzić nas do prawego postępowania. Zostały zapisane \"ku pouczeniu nas\" (1 Kor 10, 11).\r\n3. Sens anagogiczny. Możemy widzieć pewne rzeczywistości i wydarzenia w ich znaczeniu wiecznym; prowadzą nas (gr. anagoge) do naszej Ojczyzny. W ten sposób Kościół na ziemi jest znakiem Jeruzalem niebieskiego."
+        },
+        {
+          "type": "paragraph",
+          "number": 118,
+          "content": "Średniowieczny dwuwiersz streszcza znaczenie czterech sensów:\r\n\r\nLittera gesta docet, quid credas allegoria,\r\nMoralis quid agas, guo tendas anagogia.\r\nSens dosłowny poucza o wydarzeniach, alegoria o tym, w co należy wierzyć,\r\nsens moralny mówi, co należy czynić, anagogia - do czego dążyć."
+        },
+        {
+          "type": "paragraph",
+          "number": 119,
+          "content": "\"Zadaniem egzegetów jest pracować według tych zasad nad głębszym zrozumieniem i wyjaśnieniem sensu Pisma świętego, aby dzięki badaniu przygotowawczemu sąd Kościoła nabywał dojrzałości. Albowiem wszystko to, co dotyczy sposobu interpretowania Pisma świętego, podlega ostatecznie sądowi Kościoła, który ma od Boga polecenie i posłannictwo strzeżenia i wyjaśniania słowa Bożego\"."
+        },
+        {
+          "type": "comment",
+          "content": "Ego vero Evangelio non crederem, nisi me catholicae Ecclesiae commoveret auctoritas - Nie wierzyłbym Ewangelii, gdyby nie skłaniał mnie do tego autorytet Kościoła katolickiego."
+        },
+        {
+          "type": "label",
+          "content": "IV. Kanon Pisma świętego"
+        },
+        {
+          "type": "paragraph",
+          "number": 120,
+          "content": "Tradycja apostolska pozwoliła Kościołowi rozpoznać, jakie pisma powinny być zaliczone do ksiąg świętych. Pełna ich lista została nazwana \"kanonem\" Pisma świętego. Składa się on z 46 ksiąg Starego Testamentu (45, jeśli Księgę Jeremiasza i Lamentacje liczy się razem) i 27 ksiąg Nowego Testamentu:"
+        },
+        {
+          "type": "comment",
+          "content": "Stary Testament: Księga Rodzaju, Wyjścia, Kapłańska, Liczb, Powtórzonego Prawa, Jozuego, Sędziów, Rut, dwie Księgi Samuela, dwie Księgi Królewskie, dwie Księgi Kronik, Księga Ezdrasza, Nehemiasza, Tobiasza, Judyty, Estery, dwie Księgi Machabejskie, Księga Hioba, Psalmów, Przysłów, Koheleta (Eklezjastesa), Pieśń nad pieśniami, Księga Mądrości, Mądrość Syracha (Eklezjastyk), Księga Izajasza, Jeremiasza, Lamentacje, Księga Barucha, Ezechiela, Daniela, Ozeasza, Joela, Amosa, Abdiasza, Jonasza, Micheasza, Nahuma, Habakuka, Sofoniasza, Aggeusza, Zachariasza, Malachiasza;\r\n\r\nNowy Testament: Ewangelie według: św. Mateusza, św. Marka, św. Łukasza, św. Jana, Dzieje Apostolskie, Listy św. Pawła: do Rzymian, dwa Listy do Koryntian, do Galatów, Efezjan, Filipian, Kolosan, dwa Listy do Tesaloniczan, dwa Listy do Tymoteusza, Tytusa, Filemona, List do Hebrajczyków, List św. Jakuba, dwa Listy św. Piotra, trzy Listy św. Jana, List św. Judy, Apokalipsa."
+        },
+        {
+          "type": "label",
+          "content": "Stary Testament"
+        },
+        {
+          "type": "paragraph",
+          "number": 121,
+          "content": "Stary Testament jest nieodłączną częścią Pisma świętego. Jego księgi są natchnione przez Boga i zachowują trwałą wartość, ponieważ Stare Przymierze nigdy nie zostało odwołane."
+        },
+        {
+          "type": "paragraph",
+          "number": 122,
+          "content": "Istotnie, ekonomia Starego Testamentu była przede wszystkim ukierunkowana na przygotowanie przyjścia Chrystusa, Odkupiciela świata. Chociaż księgi Starego Testamentu zawierają także \"sprawy niedoskonałe i przemijające\", świadczą o Boskiej pedagogii zbawczej miłości Boga. Znajdują się w nich \"wzniosłe nauki o Bogu oraz zbawienna mądrość co do życia człowieka i przedziwny skarbiec modlitwy, w którym wreszcie utajona jest tajemnica naszego zbawienia\""
+        },
+        {
+          "type": "paragraph",
+          "number": 123,
+          "content": "Chrześcijanie czczą Stary Testament jako prawdziwe słowo Boże. Kościół zawsze z mocą przeciwstawiał się idei odrzucenia Starego Testamentu pod pretekstem, że Nowy Testament doprowadził do jego przedawnienia (marcjonizm)."
+        },
+        {
+          "type": "label",
+          "content": "Nowy Testament"
+        },
+        {
+          "type": "paragraph",
+          "number": 124,
+          "content": "\"Słowo Boże, które jest mocą Bożą ku zbawieniu każdego wierzącego, w pismach Nowego Testamentu znamienitym sposobem jest uobecnione i okazuje swoją siłę\" 98. Pisma te przekazują nam ostateczną prawdę Objawienia Bożego. Ich centralnym przedmiotem jest Jezus Chrystus, wcielony Syn Boży, Jego czyny, Jego nauczanie, Jego męka i Jego zmartwychwstanie, a także początki Jego Kościoła pod działaniem Ducha Świętego."
+        },
+        {
+          "type": "paragraph",
+          "number": 125,
+          "content": "Ewangelie są sercem całego Pisma świętego, \"są bowiem głównym świadectwem życia i nauki Słowa Wcielonego, naszego Zbawiciela\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 126,
+          "content": "W formowaniu Ewangelii można wyróżnić trzy etapy:\r\n1. Życie i nauczanie Jezusa. Kościół stanowczo utrzymuje, że cztery Ewangelie, \"których historyczność bez wahania stwierdza, podają wiernie to, co Jezus, Syn Boży, żyjąc wśród ludzi, dla wiecznego ich zbawienia rzeczywiście uczynił i czego uczył aż do dnia, w którym został wzięty do nieba\".\r\n2. Tradycja ustna. \"(Następnie) Apostołowie po wniebowstąpieniu Pana to, co On powiedział i czynił, przekazali słuchaczom w pełniejszym zrozumieniu, którym cieszyli się, pouczeni chwalebnymi wydarzeniami życia Jezusa oraz światłem Ducha Prawdy oświeceni\".\r\n3. Spisanie Ewangelii. \"Święci autorzy napisali cztery Ewangelie, wybierając niektóre z wielu wiadomości przekazanych ustnie lub pisemnie; ujmując pewne rzeczy syntetycznie lub objaśniając, przy uwzględnieniu sytuacji Kościołów; zachowując wreszcie formę przepowiadania, ale zawsze tak, aby nam przekazać szczerą prawdę o Jezusie\" "
+        },
+        {
+          "type": "paragraph",
+          "number": 127,
+          "content": "Ewangelia w poczwórnej formie zajmuje w Kościele wyjątkowe miejsce; świadczy o tym cześć, jaką otacza ją liturgia, i nieporównany wpływ, jaki zawsze wywierała na świętych:\r\n\r\nNie ma takiej nauki, która byłaby lepsza, cenniejsza i wspanialsza niż tekst Ewangelii. Rozważajcie i zachowujcie to, czego nasz Pan i Nauczyciel, Jezus Chrystus, nauczał przez swoje słowa i co wypełniał przez swoje czyny.\r\n\r\nW czasie moich modlitw zatrzymuję się przede wszystkim przy Ewangelii; w niej znajduję wszystko, co konieczne dla mojej biednej duszy. Odkrywam w niej ciągle nowe światła, ukryty mistyczny sen."
+        },
+        {
+          "type": "label",
+          "content": "Jedność Starego i Nowego Testamentu"
+        },
+        {
+          "type": "paragraph",
+          "number": 128,
+          "content": "Kościół już w czasach apostolskich, a potem nieustannie w swojej Tradycji, wyjaśniał jedność planu Bożego w dwóch Testamentach za pośrednictwem typologii. Rozpoznaje ona w dziełach Bożych Starego Testamentu figury tego, czego Bóg dokonał w pełni czasów w Osobie swego wcielonego Syna."
+        },
+        {
+          "type": "paragraph",
+          "number": 129,
+          "content": "Chrześcijanie czytają więc Stary Testament w świetle Chrystusa, który umarł i zmartwychwstał. Ta lektura typologiczna ukazuje niewyczerpaną treść Starego Testamentu. Nie pozwala ona zapomnieć, że Stary Testament zachowuje własną wartość Objawienia, potwierdzonego na nowo przez samego naszego Pana. Zresztą także Nowy Testament wymaga, by był czytany w świetle Starego. Czyniła to nieustannie pierwotna katecheza chrześcijańska. Według starożytnego powiedzenia, \"Nowy Testament jest ukryty w Starym, natomiast Stary znajduje wyjaśnienie w Nowym\" - Novum in Vetere latet et in Novo Vetus patet."
+        },
+        {
+          "type": "paragraph",
+          "number": 130,
+          "content": "Typologia oznacza dynamizm zmierzający do wypełnienia planu Bożego, gdy Bóg będzie \"wszystkim we wszystkich\" (1 Kor 15, 28). Tak więc na przykład powołanie patriarchów i Wyjście z Egiptu nie tracą własnej wartości w planie Bożym, ponieważ są równocześnie jego pośrednimi etapami."
+        },
+        {
+          "type": "label",
+          "content": "V. Pismo święte w życiu Kościoła"
+        },
+        {
+          "type": "paragraph",
+          "number": 131,
+          "content": "\"Tak wielka tkwi w słowie Bożym moc i potęga, że jest ono dla Kościoła podporą i siłą żywotną, a dla synów Kościoła utwierdzeniem wiary, pokarmem duszy oraz źródłem czystym i stałym życia duchowego\" 108. \"Wierni Chrystusowi powinni mieć szeroki dostęp do Pisma świętego\" "
+        },
+        {
+          "type": "paragraph",
+          "number": 132,
+          "content": "\"Niech przeto studium Pisma świętego będzie jakby duszą teologii świętej. Tymże słowem Pisma świętego żywi się również korzystnie i święcie się przez nie rozwija posługa słowa, czyli kaznodziejstwo, katecheza i wszelkie nauczanie chrześcijańskie, w którym homilia liturgiczna winna mieć szczególne miejsce\""
+        },
+        {
+          "type": "paragraph",
+          "number": 133,
+          "content": "Kościół \"usilnie i szczególnie upomina wszystkich wiernych... aby przez częste czytanie Pisma świętego nabywali «najwyższą wartość poznania Chrystusa Jezusa» (Flp 3, 8). «Nieznajomość Pisma Świętego jest nieznajomością Chrystusa» (św. Hieronim)\""
+        },
+        {
+          "type": "label",
+          "content": "W skrócie"
+        },
+        {
+          "type": "paragraph",
+          "number": 134,
+          "content": "Omnis Scriptura divina unus liber est, et hic unus liber est Christus, \"quia omnis Scriptura divina de Christo loquitur, et omnis Scriptura divina in Christo impletur\" - Całe Pismo święte jest jedną księgą, a tą jedną księgą jest Chrystus, \"ponieważ całe Pismo święte mówi o Chrystusie i całe Pismo święte wypełnia się w Chrystusie\" "
+        },
+        {
+          "type": "paragraph",
+          "number": 135,
+          "content": "Pismo święte zawiera słowo Boże, a ponieważ jest natchnione, jest prawdziwie słowem Bożym"
+        },
+        {
+          "type": "paragraph",
+          "number": 136,
+          "content": "Bóg jest Autorem Pisma świętego, ponieważ natchnął jego ludzkich autorów; On działa w nich i przez nich. W ten sposób zapewnia nas, że ich pisma bezbłędnie nauczają prawdy zbawczej"
+        },
+        {
+          "type": "paragraph",
+          "number": 137,
+          "content": "Interpretacja Pism natchnionych powinna przede wszystkim zwracać uwagę na to, co Bóg przez świętych autorów pragnie objawić dla naszego zbawienia. \"To, co pochodzi od Ducha, nie może być w pełni zrozumiane inaczej, jak tylko przez działanie tego samego Ducha\""
+        },
+        {
+          "type": "paragraph",
+          "number": 138,
+          "content": "Kościół przyjmuje i czci jako natchnione 46 ksiąg Starego Testamentu i 27 ksiąg Nowego Testamentu."
+        },
+        {
+          "type": "paragraph",
+          "number": 139,
+          "content": "Cztery Ewangelie zajmują centralne miejsce, ponieważ ich ośrodkiem jest Jezus Chrystus."
+        },
+        {
+          "type": "paragraph",
+          "number": 140,
+          "content": "Jedność obu Testamentów wynika z jedności zamysłu Boga i Jego Objawienia. Stary Testament przygotowuje Nowy, a Nowy wypełnia Stary. Stary i Nowy Testament wyjaśniają się wzajemnie; obydwa są prawdziwym słowem Bożym."
+        },
+        {
+          "type": "paragraph",
+          "number": 141,
+          "content": "\"Kościół miał zawsze we czci Pisma Boże, podobnie jak samo Ciało Pańskie\". Pismo święte i Ciało Pańskie karmią cale życie chrześcijańskie i kierują nim. \"Twoje słowo jest lampą dla moich stóp i światłem na mojej ścieżce\" (Ps 119, 105)"
+        }
+      ]
+    },
+    {
+      "name": "Rodział trzeci",
+      "index": 4,
+      "startNum": 142,
+      "endNum": 184,
+      "sectionBelonged": "pierwszy",
+      "elements": [
+        {
+          "type": "paragraph",
+          "number": 142,
+          "content": "Przez swoje Objawienie \"Bóg niewidzialny w nadmiarze swej miłości zwraca się do ludzi jak do przyjaciół i obcuje z nimi, by ich zaprosić do wspólnoty z sobą i przyjąć ich do niej\". Adekwatną odpowiedzią na to zaproszenie jest wiara."
+        },
+        {
+          "type": "paragraph",
+          "number": 143,
+          "content": "Przez wiarę człowiek poddaje Bogu całkowicie swój rozum i swoją wolę. Całą swoją istotą człowiek wyraża przyzwolenie Bogu Objawicielowi 2. Pismo święte nazywa odpowiedź człowieka objawiającemu się Bogu \"posłuszeństwem wiary\""
+        },
+        {
+          "type": "article",
+          "content": "Artykuł pierwszy\nWIERZĘ"
+        },
+        {
+          "type": "label",
+          "content": "I. Posłuszeństwo wiary"
+        },
+        {
+          "type": "paragraph",
+          "number": 144,
+          "content": "Być posłusznym (ob-audire) w wierze oznacza poddać się w sposób wolny usłyszanemu słowu, ponieważ jego prawda została zagwarantowana przez Boga, który jest samą Prawdą. Wzorem tego posłuszeństwa, proponowanym nam przez Pismo święte, jest Abraham. Dziewica Maryja jest jego najdoskonalszym urzeczywistnieniem."
+        },
+        {
+          "type": "label",
+          "content": "Abraham - \"ojciec wszystkich wierzących\""
+        },
+        {
+          "type": "paragraph",
+          "number": 145,
+          "content": "List do Hebrajczyków, głosząc wielką pochwałę wiary przodków, podkreśla w sposób szczególny wiarę Abrahama: \"Przez wiarę ten, którego nazwano Abrahamem, usłuchał (okazał posłuszeństwo) wezwania Bożego, by wyruszyć do ziemi, którą miał objąć w posiadanie. Wyszedł, nie wiedząc, dokąd idzie\" (Hbr 11, 8). Przez wiarę żył jak \"cudzoziemiec\" i \"pielgrzym\" w Ziemi Obiecanej. Przez wiarę Sara otrzymała moc poczęcia syna obietnicy. A w końcu przez wiarę Abraham złożył w ofierze swego jedynego syna."
+        },
+        {
+          "type": "paragraph",
+          "number": 146,
+          "content": "Abraham urzeczywistnia w ten sposób definicję wiary zawartą w Liście do Hebrajczyków: \"Wiara... jest poręką tych dóbr, których się spodziewamy, dowodem tych rzeczywistości, których nie widzimy\" (Hbr 11, 1). \"Uwierzył Abraham Bogu i zostało mu to poczytane za sprawiedliwość\" (Rz 4, 3). Dzięki tej \"mocnej wierze\" (Rz 4, 20) Abraham stał się \"ojcem wszystkich tych, którzy... wierzą\" (Rz 4, 11. 18)."
+        },
+        {
+          "type": "paragraph",
+          "number": 147,
+          "content": "Stary Testament jest bogaty w świadectwa takiej wiary. List do Hebrajczyków głosi pochwałę przykładu wiary przodków, którzy \"dzięki niej... otrzymali świadectwo\" (Hbr 11, 2). Jednak \"Bóg... nam lepszy los zgotował\", dał nam łaskę wiary w Jego Syna Jezusa, \"który nam w wierze przewodzi i ją wydoskonala\" (Hbr 11, 40; 12, 2)."
+        },
+        {
+          "type": "label",
+          "content": "Maryja - \"Błogosławiona, która uwierzyła\""
+        },
+        {
+          "type": "paragraph",
+          "number": 148,
+          "content": "Dziewica Maryja urzeczywistnia w sposób najdoskonalszy posłuszeństwo wiary. W wierze przyjmuje Ona zapowiedź i obietnicę przyniesioną przez anioła Gabriela, wierząc, że \"dla Boga... nie ma nic niemożliwego\" (Łk 1, 37), i dając swoje przyzwolenie: \"Oto ja służebnica Pańska, niech mi się stanie według twego słowa!\" (Łk 1, 38). Elżbieta pozdrawia Ją: \"Błogosławiona jesteś, któraś uwierzyła, że spełnią się słowa powiedziane Ci od Pana\" (Łk 1, 45). Z powodu tej wiary wszystkie pokolenia będą Ją nazywały błogosławioną."
+        },
+        {
+          "type": "paragraph",
+          "number": 149,
+          "content": "Przez całe Jej życie, aż do ostatniej próby 11, gdy Jezus, Jej Syn, umierał na krzyżu, nie zachwiała się wiara Maryi. Maryja nie przestała wierzyć \"w wypełnienie się\" słowa Bożego. Dlatego Kościół czci w Maryi najczystsze wypełnienie wiary."
+        },
+        {
+          "type": "label",
+          "content": "II. \"Wiem, komu uwierzyłem\" (2 Tm 1, 12)"
+        },
+        {
+          "type": "label",
+          "content": "Wierzyć w jednego Boga"
+        },
+        {
+          "type": "paragraph",
+          "number": 150,
+          "content": "Wiara jest najpierw osobowym przylgnięciem człowieka do Boga; równocześnie i w sposób nierozdzielny jest ona dobrowolnym uznaniem całej prawdy, którą Bóg objawił. Jako osobowe przylgnięcie człowieka do Boga i uznanie prawdy, którą On objawił, wiara chrześcijańska różni się od wiary w osobę ludzką. Jest więc słuszne i dobre powierzyć się całkowicie Bogu i wierzyć w sposób absolutny w to, co On mówi. Byłoby rzeczą daremną i fałszywą pokładać taką wiarę w stworzeniu."
+        },
+        {
+          "type": "label",
+          "content": "Wierzyć w Jezusa Chrystusa, Syna Bożego"
+        },
+        {
+          "type": "paragraph",
+          "number": 151,
+          "content": "Dla chrześcijanina wiara w Boga jest nieodłączna od wiary w Tego, którego On posłał, \"Jego umiłowanego Syna\", w którym całkowicie sobie upodobał; Bóg polecił nam, aby Go słuchać. Sam Pan mówi do swoich uczniów: \"Wierzycie w Boga? I we Mnie wierzcie!\" (J 14, 1). Możemy wierzyć w Jezusa Chrystusa, ponieważ On jest samym Bogiem, Słowem, które stało się ciałem: \"Boga nikt nigdy nie widział, Ten Jednorodzony Bóg, który jest w łonie Ojca, o Nim pouczył\" (J 1,18). Ponieważ On \"widział Ojca\" (J 6, 46), On sam Go zna i może Go objawić."
+        },
+        {
+          "type": "label",
+          "content": "Wierzyć w Ducha Świętego"
+        },
+        {
+          "type": "paragraph",
+          "number": 152,
+          "content": "Nie można wierzyć w Jezusa Chrystusa, nie mając udziału w Jego Duchu. To właśnie Duch Święty objawia ludziom, kim jest Jezus. Rzeczywiście, nikt \"nie może powiedzieć bez pomocy Ducha Świętego: «Panem jest Jezus»\" (1 Kor 12, 3). \"Duch przenika wszystko, nawet głębokości Boga samego... i tego, co Boskie, nie zna nikt, tylko Duch Boży\" (1 Kor 2, 10-11). Jedynie sam Bóg zna w pełni Boga. Wierzymy w Ducha Świętego, ponieważ jest Bogiem."
+        },
+        {
+          "type": "comment",
+          "content": "Kościół nie przestaje wyznawać swojej wiary w jednego Boga, Ojca, Syna i Ducha Świętego."
+        },
+        {
+          "type": "label",
+          "content": "III. Charakterystyczne przymioty wiary"
+        },
+        {
+          "type": "label",
+          "content": "Wiara jest łaską"
+        },
+        {
+          "type": "paragraph",
+          "number": 153,
+          "content": "Gdy św. Piotr wyznaje, że Jezus jest Chrystusem, Synem Boga żywego, Jezus mówi do niego, że nie objawiły mu tego \"ciało i krew, lecz Ojciec... który jest w niebie\" (Mt 16, 17). Wiara jest darem Bożym, cnotą nadprzyrodzoną wlaną przez Niego. \"By móc okazać taką wiarę, trzeba mieć łaskę Bożą uprzedzającą i wspomagającą oraz pomoce wewnętrzne Ducha Świętego, który by poruszał serca i do Boga zwracał, otwierał oczy rozumu i udzielał «wszystkim słodyczy w uznawaniu i dawaniu wiary prawdzie»\""
+        },
+        {
+          "type": "label",
+          "content": "Wiara jest aktem ludzkim"
+        },
+        {
+          "type": "paragraph",
+          "number": 154,
+          "content": "Wiara jest możliwa tylko dzięki łasce Bożej i wewnętrznej pomocy Ducha Świętego. Niemniej jednak jest prawdą, że wiara jest aktem autentycznie ludzkim. Okazanie zaufania Bogu i przylgnięcie do prawd objawionych przez Niego nie jest przeciwne ani wolności, ani rozumowi ludzkiemu. Już w relacjach międzyludzkich nie jest przeciwna naszej godności wiara w to, co inne osoby mówią nam o sobie i swoich zamierzeniach, oraz zaufanie ich obietnicom (na przykład, gdy mężczyzna i kobieta zawierają małżeństwo), aby wejść w ten sposób we wzajemną komunię. Jeszcze mniej sprzeczne z naszą godnością jest więc \"okazanie przez wiarę pełnego poddania naszego rozumu i naszej woli objawiającemu się Bogu\" i wejście w ten sposób w wewnętrzną komunię z Nim."
+        },
+        {
+          "type": "paragraph",
+          "number": 155,
+          "content": "W wierze rozum i wola człowieka współdziałają z łaską Bożą: Credere est actus intellectus assentientis veritati divinae ex imperio voluntatis a Deo motae per gratiam - \"Wiara jest aktem rozumu, przekonanego o prawdzie Bożej z nakazu woli, poruszonej łaską przez Boga\""
+        },
+        {
+          "type": "label",
+          "content": "Wiara i rozum"
+        },
+        {
+          "type": "paragraph",
+          "number": 156,
+          "content": "Racją wiary nie jest fakt, że prawdy objawione okazują się prawdziwe i zrozumiałe w świetle naszego rozumu naturalnego. Wierzymy z powodu \"autorytetu samego objawiającego się Boga, który nie może ani sam się mylić, ani nas mylić\". \"Aby jednak posłuszeństwo naszej wiary było zgodne z rozumem, Bóg zechciał, by z wewnętrznymi pomocami Ducha Świętego były połączone także argumenty zewnętrzne Jego Objawienia\". Tak więc cuda Chrystusa i świętych, proroctwa, rozwój i świętość Kościoła, jego płodność i trwałość \"są pewnymi znakami Objawienia, dostosowanymi do umysłowości wszystkich\", są \"racjami wiarygodności\", które pokazują, że \"przyzwolenie wiary żadną miarą nie jest ślepym dążeniem ducha\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 157,
+          "content": "Wiara jest pewna, pewniejsza niż wszelkie ludzkie poznanie, ponieważ opiera się na samym słowie Boga, który nie może kłamać. Oczywiście, prawdy objawione mogą wydawać się niejasne dla rozumu i doświadczenia ludzkiego, ale \"pewność, jaką daje światło Boże, jest większa niż światło rozumu naturalnego\". \"Dziesięć tysięcy trudności nie powoduje jednej wątpliwości\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 158,
+          "content": "\"Wiara szuka rozumienia\": jest charakterystyczne dla wiary, że wierzący pragnie lepszego poznania Tego, w którym złożył swoją wiarę, i lepszego zrozumienia tego, co On objawił; głębsze poznanie będzie domagać się z kolei większej wiary, coraz bardziej przenikniętej miłością. Łaska wiary otwiera \"oczy serca\" (Ef 1, 18) na żywe rozumienie treści Objawienia, czyli całości zamysłu Bożego i tajemnic wiary, ich związku między sobą i z Chrystusem, który stanowi centrum Tajemnicy objawionej. Aby \"coraz głębsze było zrozumienie Objawienia, tenże Duch Święty darami swymi wiarę stale udoskonala\". W ten sposób, według powiedzenia św. Augustyna, \"wierzę, aby rozumieć, i rozumiem, aby głębiej wierzyć\""
+        },
+        {
+          "type": "paragraph",
+          "number": 159,
+          "content": "Wiara i nauka. \"Chociaż wiara przewyższa rozum, to jednak nigdy nie może mieć miejsca rzeczywista niezgodność między wiarą i rozumem. Ponieważ ten sam Bóg, który objawia tajemnice i udziela wiary, złożył w ludzkim duchu światło rozumu, nie może przeczyć sobie samemu ani prawda nigdy nie może sprzeciwiać się prawdzie\". \"Dlatego badanie metodyczne we wszelkich dyscyplinach naukowych, jeżeli tylko prowadzi się je w sposób prawdziwie naukowy i z poszanowaniem norm moralnych, naprawdę nigdy nie będzie się sprzeciwiać wierze, sprawy bowiem świeckie i sprawy wiary wywodzą swój początek od tego samego Boga. Owszem, kto pokornie i wytrwale usiłuje zbadać tajniki rzeczy, prowadzony jest niejako, choć nieświadomie, ręką Boga, który wszystko utrzymując, sprawia, że rzeczy są tym, czym są\""
+        },
+        {
+          "type": "label",
+          "content": "Wolność wiary"
+        },
+        {
+          "type": "paragraph",
+          "number": 160,
+          "content": "Aby wiara miała charakter ludzki, \"człowiek powinien dobrowolnie odpowiedzieć Bogu wiarą; nikogo więc wbrew jego woli nie wolno do przyjęcia wiary przymuszać\". \"Bóg wzywa ludzi, aby Mu służyli w Duchu i prawdzie; wezwanie takie wiąże ich w sumieniu, ale nie zmusza... W najwyższym stopniu przejawiło się to w Jezusie Chrystusie\". Jezus wprawdzie wzywał do wiary i nawrócenia, ale nikogo do tego nie zmuszał. \"Dał świadectwo prawdzie, ale zaprzeczającym nie chciał jej narzucać siłą. Jego Królestwo... wzrasta miłością, przez którą Chrystus wywyższony na krzyżu ludzi do siebie pociągnął\"."
+        },
+        {
+          "type": "label",
+          "content": "Konieczność wiary"
+        },
+        {
+          "type": "paragraph",
+          "number": 161,
+          "content": "Wiara w Jezusa Chrystusa i w Tego, który Go posłał dla naszego zbawienia, jest konieczna do zbawienia. \"Ponieważ «bez wiary... nie można podobać się Bogu» (Hbr 11, 6) i dojść do udziału w Jego synostwie, nikt nie może być bez niej usprawiedliwiony ani nie otrzyma życia wiecznego, jeśli nie «wytrwa w niej do końca» (Mt 10, 22; 24, 13)\"."
+        },
+        {
+          "type": "label",
+          "content": "Wytrwanie w wierze"
+        },
+        {
+          "type": "paragraph",
+          "number": 162,
+          "content": "Wiara jest darem danym człowiekowi przez Boga. Ten nieoceniony dar możemy utracić. Św. Paweł ostrzega przed tym Tymoteusza: Wystąp w dobrej walce, \"mając wiarę i dobre sumienie. Niektórzy odrzuciwszy je, ulegali rozbiciu w wierze\" (1 Tm 1,18-19). Aby żyć, wzrastać i wytrwać w wierze aż do końca, musimy karmić ją słowem Bożym oraz prosić Pana, aby przymnażał nam wiary; powinna ona działać \"przez miłość\" (Ga 5, 6), być podtrzymywana przez nadzieję i zakorzeniona w wierze Kościoła."
+        },
+        {
+          "type": "label",
+          "content": "Wiara - początek życia wiecznego"
+        },
+        {
+          "type": "paragraph",
+          "number": 163,
+          "content": "Wiara pozwala nam już w sposób uprzedzający doznawać radości i światła wizji uszczęśliwiającej, będącej celem naszej ziemskiej wędrówki. Zobaczymy wtedy Boga \"twarzą w twarz\" (1 Kor 13, 12), \"takim, jakim jest\" (1 J 3, 2). Wiara jest więc już początkiem życia wiecznego:"
+        },
+        {
+          "type": "comment",
+          "content": "W chwili gdy kontemplujemy dobra zapowiadane przez wiarę, jakby odbite w zwierciadle, to jakbyśmy już posiadali te cudowne rzeczywistości, którymi, jak zapewnia nas nasza wiara, kiedyś będziemy się radowali."
+        },
+        {
+          "type": "paragraph",
+          "number": 164,
+          "content": " Teraz jednak \"według wiary, a nie dzięki widzeniu postępujemy\" (2 Kor 5, 7) i poznajemy Boga \"jakby w zwierciadle, niejasno... po części\" (1 Kor 13,12). Wiara, która jest pełna światła dzięki Temu, w którego wierzymy, często jest przeżywana w ciemności. Może być wystawiona na próbę. Świat, w którym żyjemy, bardzo często wydaje się daleki od tego, o czym zapewnia nas wiara. Doświadczenia zła, cierpienia, niesprawiedliwości i śmierci wydają się zaprzeczać Dobrej Nowinie; mogą one zachwiać wiarą i stać się dla niej pokusą."
+        },
+        {
+          "type": "paragraph",
+          "number": 165,
+          "content": " Powinniśmy wtedy zwrócić się do świadków wiary: Abrahama, który \"wbrew nadziei uwierzył nadziei\" (Rz 4, 18); Maryi Dziewicy, która w \"pielgrzymce wiary\" doświadczyła nawet \"nocy wiary\", uczestnicząc w cierpieniu Syna i nocy Jego grobu; i tylu innych świadków wiary: \"Mając dokoła siebie takie mnóstwo świadków, odłożywszy wszelki ciężar, a przede wszystkim grzech, który nas łatwo zwodzi, winniśmy wytrwale biec w wyznaczonych nam zawodach. Patrzmy na Jezusa, który nam w wierze przewodzi i ją wydoskonala\" (Hbr 12,1-2)."
+        },
+        {
+          "type": "article",
+          "content": "Artykuł drugi\nWIERZYMY"
+        },
+        {
+          "type": "paragraph",
+          "number": 166,
+          "content": "Wiara jest aktem osobowym, wolną odpowiedzią człowieka na inicjatywę Boga, który się objawia. Wiara nie jest jednak aktem wyizolowanym. Nikt nie może wierzyć sam, tak jak nikt nie może żyć sam. Nikt nie dał wiary samemu sobie, tak jak nikt nie dał sam sobie życia. Wierzący otrzymał wiarę od innych, dlatego powinien ją przekazywać innym. Nasza miłość do Jezusa i ludzi skłania nas do mówienia innym o naszej wierze. Każdy wierzący jest jakby ogniwem w wielkim łańcuchu wierzących. Nie mogę wierzyć, jeśli nie będzie mnie prowadziła wiara innych, a przez moją wiarę przyczyniam się do prowadzenia wiary innych."
+        },
+        {
+          "type": "paragraph",
+          "number": 167,
+          "content": "\"Wierzę\" - to wiara Kościoła wyznawana osobiście przez każdego wierzącego, przede wszystkim w chwili chrztu. \"Wierzymy\" - to wiara Kościoła wyznawana przez biskupów zgromadzonych na soborze lub, bardziej ogólnie, przez zgromadzenie liturgiczne wierzących. \"Wierzę\" - mówi także Kościół, nasza Matka, który przez swoją wiarę odpowiada Bogu i który uczy nas mówić: \"Wierzę\", \"Wierzymy\"."
+        },
+        {
+          "type": "label",
+          "content": "I. \"Wejrzyj, Panie, na wiarę Twojego Kościoła\""
+        },
+        {
+          "type": "paragraph",
+          "number": 168,
+          "content": "Kościół jest zatem tym, który wierzy pierwszy, i w ten sposób prowadzi, karmi i podtrzymuje naszą wiarę. To Kościół wyznaje wszędzie Pana (Te per orbem terrarum sancta confitetur Ecclesia - \"Ciebie po wszystkiej ziemi wyznaje Kościół święty\", śpiewamy w Te Deum), a z nim i w nim także my dochodzimy do wyznania: \"Wierzę\", \"Wierzymy\". To właśnie dzięki Kościołowi przez chrzest otrzymujemy wiarę i nowe życie w Chrystusie. W Obrzędzie chrztu dorosłych szafarz chrztu pyta katechumena: \"O co prosisz Kościół Boży?\" Odpowiedź: \"O wiarę!\" \"Co ci daje wiara?\" - \"Życie wieczne!\""
+        },
+        {
+          "type": "paragraph",
+          "number": 169,
+          "content": "Zbawienie pochodzi od samego Boga; ponieważ jednak życie wiary otrzymujemy za pośrednictwem Kościoła, on jest naszą Matką: \"Wierzymy w Kościół jako Matkę naszych nowych narodzin, a nie w Kościół jako sprawcę naszego zbawienia\". Ponieważ Kościół jest naszą Matką, jest także nauczycielem naszej wiary."
+        },
+        {
+          "type": "label",
+          "content": "II. Język wiary"
+        },
+        {
+          "type": "paragraph",
+          "number": 170,
+          "content": "Wierzymy nie w formuły, ale w rzeczywistości, które one wyrażają i których wiara pozwala nam \"dotknąć\". \"Akt (wiary) wierzącego nie odnosi się do tego, co się wypowiada, ale do rzeczywistości (wypowiadanej)\". Zbliżamy się jednak do tych rzeczywistości za pomocą formuł wiary. One pozwalają nam wyrażać i przekazywać wiarę, celebrować ją we wspólnocie, przyswajać ją sobie i coraz bardziej nią żyć."
+        },
+        {
+          "type": "paragraph",
+          "number": 171,
+          "content": "Kościół, który jest \"filarem i podporą prawdy\" (1 Tm 3, 15), zachowuje wiernie \"wiarę raz tylko przekazaną świętym\" (Jud 3). To Kościół zachowuje pamięć o słowach Chrystusa, to on przekazuje z pokolenia na pokolenie wyznanie wiary Apostołów. Jak matka uczy dzieci mówić, a przez to rozumieć i komunikować się, tak Kościół, nasza Matka, uczy nas języka wiary, by wprowadzać nas w rozumienie i życie wiary."
+        },
+        {
+          "type": "label",
+          "content": "III. Jedna wiara"
+        },
+        {
+          "type": "paragraph",
+          "number": 172,
+          "content": "Od wieków, w bardzo wielu językach, kulturach, ludach i narodach, Kościół nie przestaje wyznawać swojej jedynej wiary otrzymanej od jednego Pana, przekazywanej przez jeden chrzest, opartej na przekonaniu, że wszyscy ludzie mają tylko jednego Boga i Ojca. Św. Ireneusz z Lyonu, świadek tej wiary, tak pisze:"
+        },
+        {
+          "type": "paragraph",
+          "number": 173,
+          "content": "\"Rzeczywiście, Kościół, chociaż rozproszony po całym świecie, aż po krańce ziemi, otrzymawszy od Apostołów i ich uczniów wiarę... zachowuje troskliwie to przepowiadanie i tę wiarę, jakby mieszkał w jednym domu; wierzy w nią w taki sam sposób, jakby miał jedną duszę i jedno serce; przepowiada wiarę, uczy jej i przekazuje głosem jednomyślnym, jakby miał jedne usta\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 174,
+          "content": "\"Chociaż na świecie są różne języki, treść Tradycji jest jedna i ta sama. Ani Kościoły założone w Germanii nie mają innej wiary czy innej Tradycji, ani Kościoły, które są u Iberów, Celtów, na Wschodzie, w Egipcie, Libii czy na środku świata. \" \"Orędzie Kościoła jest więc wiarygodne i pewne, ponieważ w nim ukazuje się jedna droga zbawienia, wiodąca przez cały świat\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 175,
+          "content": "\"Tę wiarę, którą otrzymaliśmy od Kościoła, zachowujemy troskliwie, ponieważ nieustannie, pod działaniem Ducha Bożego, odmładza się ona jak cenny depozyt zamknięty we wspaniałym naczyniu i odmładza naczynie, które ją zawiera\"."
+        },
+        {
+          "type": "label",
+          "content": "W skrócie"
+        },
+        {
+          "type": "paragraph",
+          "number": 176,
+          "content": "Wiara jest osobowym przylgnięciem całego człowieka do Boga, który się objawia. Obejmuje ona przylgnięcie rozumu i woli do tego, co Bóg objawił o sobie przez swoje czyny i słowa."
+        },
+        {
+          "type": "paragraph",
+          "number": 177,
+          "content": "Wiara ma wiec podwójne odniesienie: do osoby i do prawdy; akt wiary odnosi się do prawdy przez zaufanie osobie, która o niej świadczy."
+        },
+        {
+          "type": "paragraph",
+          "number": 178,
+          "content": "Powinniśmy wierzyć nie w kogoś innego, jak tylko w Boga: Ojca, Syna i Ducha Świętego."
+        },
+        {
+          "type": "paragraph",
+          "number": 179,
+          "content": "Wiara jest nadprzyrodzonym darem Bożym. Aby wierzyć, człowiek potrzebuje wewnętrznych pomocy Ducha Świętego."
+        },
+        {
+          "type": "paragraph",
+          "number": 180,
+          "content": "Wiara jest aktem ludzkim, świadomym i wolnym, który odpowiada godności osoby ludzkiej."
+        },
+        {
+          "type": "paragraph",
+          "number": 181,
+          "content": "Wiara jest aktem eklezjalnym. Wiara Kościoła poprzedza, rodzi, prowadzi i karmi naszą wiarę. Kościół jest Matką wszystkich wierzących. \"Nie może mieć Boga za Ojca, kto nie ma Kościoła za Matkę\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 182,
+          "content": "\"Wierzymy we wszystko, co jest zawarte w słowie Bożym, spisanym lub przekazanym, i co Kościół podaje do wierzenia jako objawione przez Boga\""
+        },
+        {
+          "type": "paragraph",
+          "number": 183,
+          "content": "Wiara jest konieczna do zbawienia. Potwierdza to sam Pan: \"Kto uwierzy i przyjmie chrzest, będzie zbawiony; a kto nie uwierzy, będzie potępiony\" (Mk 16,16)."
+        },
+        {
+          "type": "paragraph",
+          "number": 184,
+          "content": "\"Wiara jest przedsmakiem poznania, które uczyni nas szczęśliwymi w przyszłym życiu\"."
+        },
+        {
+          "type": "article",
+          "content": "Wyznanie wiary"
+        },
+        {
+          "type": "label",
+          "content": "Symbol apostolski:"
+        },
+        {
+          "type": "quote",
+          "content": "Wierzę w Boga,\r\nOjca wszechmogącego,\r\nStworzyciela nieba i ziemi\r\nI w Jezusa Chrystusa,\r\nSyna Jego jedynego,\r\nPana naszego,\r\nktóry się począł z Ducha Świętego,\r\nnarodził się z Maryi Panny.\r\nUmęczon pod Ponckim Piłatem,\r\nukrzyżowan, umarł i pogrzebion.\r\nZstąpił do piekieł.\r\nTrzeciego dnia zmartwychwstał,\r\nWstąpił na niebiosa,\r\nsiedzi po prawicy Boga Ojca\r\nwszechmogącego.\r\nStamtąd przyjdzie sądzić\r\nżywych i umarłych.\r\nWierzę w Ducha Świętego,\r\nświęty Kościół powszechny,\r\nświętych obcowanie,\r\ngrzechów odpuszczenie,\r\nciała zmartwychwstanie,\r\nżywot wieczny.\r\nAmen."
+        },
+        {
+          "type": "label",
+          "content": "Symbol Nicejsko-Konstantynopolitański:"
+        },
+        {
+          "type": "quote",
+          "content": "Wierzę w jednego Boga,\r\nOjca wszechmogącego,\r\nStworzyciela nieba i ziemi,\r\nwszystkich rzeczy widzialnych\r\ni niewidzialnych.\r\nI w jednego Pana Jezusa Chrystusa,\r\nSyna Bożego Jednorodzonego,\r\nktóry z Ojca jest zrodzony\r\nprzed wszystkimi wiekami.\r\nBóg z Boga,\r\nŚwiatłość ze Światłości,\r\nBóg prawdziwy z Boga prawdziwego.\r\nZrodzony, a nie stworzony,\r\nwspółistotny Ojcu,\r\na przez Niego wszystko się stało.\r\nOn to dla nas ludzi\r\ni dla naszego zbawienia\r\nzstąpił z nieba.\r\nI za sprawą Ducha Świętego\r\nprzyjął ciało z Maryi Dziewicy\r\ni stał się człowiekiem.\r\nUkrzyżowany również za nas\r\npod Poncjuszem Piłatem\r\nzostał umęczony i pogrzebany.\r\nI zmartwychwstał trzeciego dnia,\r\njak oznajmia Pismo.\r\nI wstąpił do nieba;\r\nsiedzi po prawicy Ojca.\r\nI powtórnie przyjdzie w chwale\r\nsądzić żywych i umarłych,\r\na królestwu Jego nie będzie końca.\r\nWierzę w Ducha Świętego,\r\nPana i Ożywiciela,\r\nktóry od Ojca i Syna pochodzi.\r\nKtóry z Ojcem i Synem\r\nwspólnie odbiera uwielbienie\r\ni chwałę;\r\nktóry mówił przez Proroków.\r\nWierzę w jeden, święty, powszechny\r\ni apostolski Kościół.\r\nWyznaję jeden chrzest\r\nna odpuszczenie grzechów.\r\nI oczekuję wskrzeszenia umarłych.\r\nI życia wiecznego w przyszłym świecie.\r\nAmen."
+        }
+      ]
+    },
+    {
+      "name": "Symbole wiary",
+      "index": 5,
+      "startNum": 185,
+      "endNum": 197,
+      "sectionBelonged": "drugi",
+      "elements": [
+        {
+          "type": "article",
+          "content": "WYZNANIE WIARY CHRZEŚCIJAŃSKIEJ\n\nSYMBOLE WIARY"
+        },
+        {
+          "type": "paragraph",
+          "number": 185,
+          "content": "Kto mówi: \"Wierzę\", mówi: \"Przyjmuję to, w co my wierzymy\". Komunia w wierze potrzebuje wspólnego języka wiary, normatywnego dla wszystkich i jednoczącego w tym samym wyznaniu wiary."
+        },
+        {
+          "type": "paragraph",
+          "number": 186,
+          "content": "Od początku Kościół apostolski wyrażał i przekazywał swoją wiarę w krótkich i normatywnych dla wszystkich formułach. Ale już dość wcześnie Kościół chciał także zebrać to, co istotne dla jego wiary, w organicznych i uporządkowanych streszczeniach, przeznaczonych przede wszystkim dla kandydatów do chrztu:"
+        },
+        {
+          "type": "comment",
+          "content": "Ta synteza wiary nie została ułożona według ludzkich opinii, ale z całego Pisma świętego wybrano to, co najważniejsze, aby podać w całości jedną naukę wiary. Jak ziarno gorczycy zawiera w maleńkim nasionku wiele gałęzi, tak samo streszczenie wiary zamyka w kilku słowach całe poznanie prawdziwej pobożności zawartej w Starym i Nowym Testamencie"
+        },
+        {
+          "type": "paragraph",
+          "number": 187,
+          "content": "Takie syntezy wiary nazywamy \"wyznaniami wiary\", ponieważ streszczają wiarę wyznawaną przez chrześcijanina. Nazywamy je również Credo, ponieważ zazwyczaj zaczynają się od słów: \"Wierzę\". Nazywa się je także \"symbolami wiary\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 188,
+          "content": "Greckie słowo symbolon oznaczało połowę przełamanego przedmiotu (na przykład pieczęci), którą przedstawiano jako znak rozpoznawczy. Przełamane części składano ze sobą, by sprawdzić tożsamość tego, kto przyniósł drugą połowę. Symbol wiary jest więc znakiem rozpoznawczym oraz znakiem jedności między wierzącymi. Symbolon oznacza także zbiór, kolekcję lub streszczenie. Symbol wiary jest zbiorem podstawowych prawd wiary, dlatego służy jako pierwszy i podstawowy punkt odniesienia dla katechezy."
+        },
+        {
+          "type": "paragraph",
+          "number": 189,
+          "content": "Pierwsze \"wyznanie wiary\" składa się przy chrzcie. \"Symbol wiary\" jest najpierw symbolem chrzcielnym. Ponieważ chrzest jest udzielany \"w imię Ojca i Syna, i Ducha Świętego\" (Mt 28, 19), prawdy wiary wyznawane podczas chrztu są ułożone według ich odniesienia do trzech Osób Trójcy Świętej."
+        },
+        {
+          "type": "paragraph",
+          "number": 190,
+          "content": "Symbol jest więc podzielony na trzy części: \"Pierwsza jest poświęcona pierwszej Osobie Boskiej i przedziwnemu dziełu stworzenia; następna drugiej Osobie Boskiej i tajemnicy Odkupienia ludzi; ostatnia natomiast trzeciej Osobie Boskiej, będącej źródłem i zasadą naszego uświęcenia\". Te trzy części są \"trzema rozdziałami naszej pieczęci (chrzcielnej)\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 191,
+          "content": "\"Każda z tych trzech części jest odrębna, chociaż wszystkie są powiązane ze sobą. Zgodnie z porównaniem często używanym przez Ojców Kościoła, nazywamy je artykułami. Faktycznie, jak w naszych członkach są różne stawy, które je wyodrębniają i dzielą, tak również słusznie i poprawnie w Credo nazwano artykułami te prawdy, w które szczególnie i w sposób odrębny mamy wierzyć\". Według starożytnej tradycji, o której świadczy już św. Ambroży, wymienia się zazwyczaj dwanaście artykułów \"Wyznania wiary\", symbolizujących poprzez liczbę Apostołów całość wiary apostolskiej."
+        },
+        {
+          "type": "paragraph",
+          "number": 192,
+          "content": "W ciągu wieków w odpowiedzi na potrzeby różnych epok sformułowano wiele wyznań lub symboli wiary. Są to symbole różnych Kościołów apostolskich i starożytnych, symbol Quicumque, nazywany symbolem św. Atanazego, wyznania wiary niektórych synodów i soborów (Toledańskiego, Laterańskiego, Lyońskiego, Trydenckiego) lub niektórych papieży, jak Fides Damasi czy Wyznanie wiary Ludu Bożego Pawła VI (1968)."
+        },
+        {
+          "type": "paragraph",
+          "number": 193,
+          "content": "Żaden z symboli powstałych w kolejnych etapach życia Kościoła nie może być traktowany jako przestarzały i zbędny. Pomagają nam one zrozumieć i pogłębić dzisiaj wiarę wyznawaną od początku przez różne kompendia prawd wiary, jakie opracowano. Wśród wszystkich symboli wiary dwa zajmują szczególne miejsce w życiu Kościoła:"
+        },
+        {
+          "type": "paragraph",
+          "number": 194,
+          "content": "Symbol Apostolski został nazwany w ten sposób, ponieważ słusznie jest uważany za wierne streszczenie wiary Apostołów. Jest to starożytny symbol chrzcielny Kościoła rzymskiego. Jego wielki autorytet wynika z faktu, że \"jest on symbolem, którego strzeże Kościół rzymski, Kościół, gdzie miał siedzibę Piotr, pierwszy z Apostołów, i dokąd przyniósł wyrażenie wspólnej wiary\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 195,
+          "content": "Symbol Nicejsko-Konstantynopolitański czerpie wielki autorytet stąd, że jest owocem dwóch pierwszych soborów powszechnych (325 i 381r.). Także dzisiaj jest wspólny wszystkim wielkim Kościołom Wschodu i Zachodu."
+        },
+        {
+          "type": "paragraph",
+          "number": 196,
+          "content": "Nasz wykład wiary zostanie oparty na Symbolu Apostolskim, który w pewnym sensie stanowi \"najstarszy katechizm rzymski\". Wykład będzie jednak uzupełniony przez liczne odniesienia do Symbolu Nicejsko-Konstantynopolitańskiego, często bardziej bezpośredniego i szczegółowego."
+        },
+        {
+          "type": "paragraph",
+          "number": 197,
+          "content": "Jak w dniu naszego chrztu, gdy całe nasze życie zostało powierzone \"nakazom tej nauki\" (Rz 6, 17), przyjmijmy Symbol naszej wiary, która daje życie. Odmawiać z wiarą Credo, to znaczy wchodzić w komunię z Bogiem Ojcem, Synem i Duchem Świętym, a także z całym Kościołem, który przekazuje nam wiarę i w którym wierzymy."
+        },
+        {
+          "type": "comment",
+          "content": "Symbol ten jest pieczęcią duchową, jest rozważaniem naszego serca i zawsze obecną obroną; z całą pewnością jest skarbem naszej duszy."
+        }
+      ]
+    },
+    {
+      "name": "Rodział pierwszy",
+      "index": 6,
+      "startNum": 198,
+      "endNum": 421,
+      "sectionBelonged": "drugi",
+      "elements": [
+        {
+          "type": "article",
+          "content": "Rozdział pierwszy\n\nWIERZĘ W BOGA OJCA"
+        },
+        {
+          "type": "paragraph",
+          "number": 198,
+          "content": "Nasze wyznanie wiary zaczyna się od Boga, ponieważ Bóg jest \"pierwszy i ostatni\" (Iz 44, 6); jest Początkiem i Końcem wszystkiego. Credo zaczyna się od Boga Ojca, ponieważ Ojciec jest pierwszą Osobą Boską Trójcy Świętej; nasz Symbol zaczyna się od wyznania stworzenia nieba i ziemi, ponieważ stworzenie jest początkiem i podstawą wszystkich dzieł Bożych."
+        },
+        {
+          "type": "article",
+          "content": "Artykuł pierwszy\n\"WIERZĘ W BOGA OJCA WSZECHMOGĄCEGO,\r\nSTWORZYCIELA NIEBA I ZIEMI\""
+        },
+        {
+          "type": "article",
+          "content": "Paragraf pierwszy\n\nWIERZĘ W BOGA"
+        },
+        {
+          "type": "paragraph",
+          "number": 199,
+          "content": "\"Wierzę w Boga\": to pierwsze stwierdzenie wyznania wiary jest także najbardziej podstawowe. Cały Symbol wiary mówi o Bogu, a jeśli mówi również o człowieku i o świecie, to czyni to w odniesieniu do Boga. Wszystkie artykuły Credo zależą od pierwszego, tak jak wszystkie przykazania są rozwinięciem pierwszego. Pozostałe artykuły pozwalają lepiej poznać Boga, tak jak On stopniowo objawiał się ludziom. \"Wierni składają przede wszystkim wyznanie wiary w Boga\""
+        },
+        {
+          "type": "label",
+          "content": "I. \"Wierzę w jednego Boga\""
+        },
+        {
+          "type": "paragraph",
+          "number": 200,
+          "content": "Tymi słowami zaczyna się Symbol Nicejsko-Konstantynopolitański. Wyznanie jedyności Boga, które zakorzenia się w Objawieniu Bożym Starego Przymierza, jest nieodłączne od wyznania istnienia Boga i jest, podobnie jak ono, podstawowe. Bóg jest Jedyny; jest tylko jeden Bóg. \"Wiara chrześcijańska wyznaje, że jest jeden Bóg co do natury, substancji i istoty\" "
+        },
+        {
+          "type": "paragraph",
+          "number": 201,
+          "content": "Bóg objawił się Izraelowi, swemu narodowi wybranemu, jako Jedyny: \"Słuchaj, Izraelu, Pan jest naszym Bogiem - Panem jedynym. Będziesz miłował Pana, Boga twojego, z całego swego serca, z całej duszy swojej, ze wszystkich swych sił\" (Pwt 6, 4-5). Przez proroków Bóg wzywa Izrael i wszystkie narody, by zwróciły się do Niego, Jedynego: \"Nawróćcie się do Mnie, by się zbawić, wszystkie krańce świata, bo Ja jestem Bogiem, i nikt inny!... Tak, przede Mną zegnie się wszelkie kolano, wszelki język na Mnie przysięgać będzie, mówiąc: <<Jedynie u Pana jest sprawiedliwość i moc>>\" (Iz 45, 22-24)."
+        },
+        {
+          "type": "paragraph",
+          "number": 202,
+          "content": "Sam Jezus potwierdza, że Bóg jest \"jedynym Panem\" i że należy Go miłować \"całym swoim sercem, całą swoją duszą, całym swoim umysłem i całą swoją mocą\". Równocześnie Jezus daje do zrozumienia, że On sam jest \"Panem\". Wyznanie, że Jezus jest Panem, jest właściwością wiary chrześcijańskiej. Nie sprzeciwia się ono wierze w Boga Jedynego. Wiara w Ducha Świętego, \"który jest Panem i Ożywicielem\", nie wprowadza żadnego podziału w jedynym Bogu:"
+        },
+        {
+          "type": "comment",
+          "content": "Całą mocą wierzymy i bez zastrzeżenia wyznajemy, że jeden tylko jest prawdziwy Bóg, wieczny, nieskończony, niezmienny, niepojęty, wszechmocny i niewymowny, Ojciec i Syn, i Duch Święty: trzy Osoby, ale jedna istota, jedna substancja, czyli natura, całkowicie prosta."
+        },
+        {
+          "type": "label",
+          "content": "II. Bóg objawia swoje imię"
+        },
+        {
+          "type": "paragraph",
+          "number": 203,
+          "content": "Bóg objawił się Izraelowi, swemu ludowi, pozwalając mu poznać swoje imię. Imię wyraża istotę, tożsamość osoby i sens jej życia. Bóg ma imię; nie jest jakąś anonimową siłą. Ujawnić swoje imię oznacza pozwolić, by inni mogli nas poznać, w jakiś sposób ujawnić siebie, stając się dostępnym, możliwym do głębszego poznania i do bycia wzywanym po imieniu."
+        },
+        {
+          "type": "paragraph",
+          "number": 204,
+          "content": "Bóg objawiał się swemu ludowi stopniowo i pod różnymi imionami, ale objawienie imienia Bożego dane Mojżeszowi w teofanii płonącego krzewu, na początku Wyjścia z Egiptu i Przymierza na Synaju, okazało się objawieniem podstawowym dla Starego i Nowego Przymierza."
+        },
+        {
+          "type": "label",
+          "content": "Bóg żywy"
+        },
+        {
+          "type": "paragraph",
+          "number": 205,
+          "content": "Bóg przywołuje Mojżesza z krzewu, który płonął, ale się nie spalał. Bóg mówi do Mojżesza: \"JESTEM Bogiem ojca twego, Bogiem Abrahama, Bogiem Izaaka i Bogiem Jakuba\" (Wj 3, 6). Bóg jest Bogiem ojców; Tym, który wzywał i prowadził patriarchów w ich wędrówkach. Jest Bogiem wiernym i współczującym, który pamięta o nich i o swoich obietnicach; przychodzi, by wyzwolić ich potomków z niewoli. Jest Bogiem, który ponad czasem i przestrzenią może i chce to urzeczywistnić oraz posłuży się swoją wszechmocą w spełnieniu tego zamysłu."
+        },
+        {
+          "type": "label",
+          "content": "\"Ja Jestem, Który Jestem\""
+        },
+        {
+          "type": "comment",
+          "content": "Mojżesz... rzekł Bogu: \"Oto pójdę do Izraelitów i powiem im: Bóg ojców naszych posłał mnie do was. Lecz gdy oni mnie zapytają, jakie jest Jego imię, to cóż im mam powiedzieć?\" Odpowiedział Bóg Mojżeszowi: \"JESTEM, KTÓRY JESTEM\". I dodał: \"Tak powiesz synom Izraela: JESTEM posłał mnie do was... To jest imię moje na wieki i to jest moje zawołanie na najdalsze pokolenia\" (Wj 3, 13-15)."
+        },
+        {
+          "type": "paragraph",
+          "number": 206,
+          "content": "Objawiając swoje tajemnicze imię JAHWE (JHWH), \"Ja Jestem Tym, Który Jest\", \"Ja Jestem Tym, Który Jestem\" lub \"Ja Jestem, Który Jestem\", Bóg mówi, kim jest i jakim imieniem należy Go wzywać. To imię Boże jest tajemnicze, tak jak Bóg jest tajemnicą. Jest ono imieniem objawionym, a zarazem w pewnej mierze uchyleniem się od ujawnienia imienia, i właśnie przez to wyraża ono najlepiej, kim jest Bóg, który nieskończenie przekracza to wszystko, co możemy zrozumieć lub powiedzieć o Nim; jest On \"Bogiem ukrytym\" (Iz 45, 15). Jego imię jest niewymowne, a zarazem jest On Bogiem, który staje się bliski ludziom."
+        },
+        {
+          "type": "paragraph",
+          "number": 207,
+          "content": "Objawiając swoje imię, Bóg objawia równocześnie swoją wierność, która nie ma ani początku, ani końca, obejmuje zarówno przeszłość (\"Jestem Bogiem ojca twego\", Wj 3, 6), jak i przyszłość (\"Ja będę z tobą\", Wj 3,12). Bóg, który objawia swoje imię jako \"Ja Jestem\", objawia się jako Bóg, który jest zawsze przy swoim ludzie, aby go zbawić."
+        },
+        {
+          "type": "paragraph",
+          "number": 208,
+          "content": "Wobec przyciągającej i tajemniczej obecności Boga człowiek odkrywa swoją małość. Wobec płonącego krzewu Mojżesz zdejmuje sandały i zasłania twarz w obliczu Świętości Bożej. Wobec chwały trzykroć świętego Boga Izajasz woła: \"Biada mi! Jestem zgubiony! Wszak jestem mężem o nieczystych wargach\" (Iz 6, 5). Wobec Boskich znaków, które wypełnia Jezus, Piotr mówi: \"Odejdź ode mnie, Panie, bo jestem człowiek grzeszny\" (Łk 5, 8). Ponieważ jednak Bóg jest święty, może przebaczyć człowiekowi, który uznaje przed Nim, że jest grzesznikiem: \"Nie chcę, aby wybuchnął płomień mego gniewu... albowiem Bogiem jestem, nie człowiekiem; pośrodku ciebie jestem Ja - Święty\" (Oz 11, 9). Podobnie powie Jan Apostoł: \"Uspokoimy przed Nim nasze serce. A jeśli nasze serce oskarża nas, to przecież Bóg jest większy od naszego serca i zna wszystko\" (1 J 3, 19-20)."
+        },
+        {
+          "type": "paragraph",
+          "number": 209,
+          "content": "Przez szacunek dla świętości Boga naród izraelski nie wypowiada imienia Boga. W czasie czytania Pisma świętego imię objawione jest zastępowane Boskim tytułem \"Pan\" (Adonai, po grecku Kyrios). Ten tytuł będzie wyrażał także Boskość Jezusa: \"Jezus jest Panem\"."
+        },
+        {
+          "type": "label",
+          "content": "\"Bóg miłosierny i litościwy\""
+        },
+        {
+          "type": "paragraph",
+          "number": 210,
+          "content": "Po grzechu Izraela, który odwrócił się od Boga, by czcić złotego cielca Bóg wysłuchuje wstawiennictwa Mojżesza i zgadza się iść pośród niewiernego ludu, okazując w ten sposób swoją miłość. Gdy Mojżesz prosi, by mógł zobaczyć Jego chwałę, Bóg odpowiada: \"Ja ukażę ci mój majestat i ogłoszę przed tobą imię Pana (JHWH)\" (Wj 33, 18-19). Pan przechodzi przed Mojżeszem i mówi: \"Jahwe, Jahwe (JHWH, JHWH), Bóg miłosierny i litościwy, cierpliwy, bogaty w łaskę i wierność\" (Wj 34, 5-6). Mojżesz wyznaje wówczas, że Pan jest Bogiem, który przebacza."
+        },
+        {
+          "type": "paragraph",
+          "number": 211,
+          "content": "Imię Boże \"Ja Jestem\" lub \"On Jest\" wyraża wierność Boga, który mimo niewierności ludzkiego grzechu i kary, na jaką człowiek zasługuje, zachowuje \"swą łaskę w tysiączne pokolenie\" (Wj 34, 7). Bóg objawia, że jest \"bogaty w miłosierdzie\" (Ef 2, 4), aż do dania swojego jedynego Syna. Jezus, oddając swoje życie, by wyzwolić nas z grzechu, objawi, że On sam nosi imię Boże: \"Gdy wywyższycie Syna Człowieczego, wtedy poznacie, że JA JESTEM\" (J 8, 28)."
+        },
+        {
+          "type": "label",
+          "content": "Tylko Bóg JEST"
+        },
+        {
+          "type": "paragraph",
+          "number": 212,
+          "content": "W ciągu wieków wiara Izraela mogła rozwinąć i pogłębić bogactwa zawarte w objawieniu imienia Bożego. Bóg jest jedyny; poza Nim nie ma innych bogów. On przekracza świat i historię. To On uczynił niebo i ziemię: \"Przeminą one, Ty zaś pozostaniesz. I całe one jak szata się zestarzeją... Ty zaś jesteś zawsze ten sam i lata Twoje nie mają końca\" (Ps 102, 27-28). W Nim \"nie ma przemiany ani cienia zmienności\" (Jk 1, 17). On jest \"Tym, Który Jest\", bez początku i bez końca, i w ten sposób pozostaje zawsze wierny sobie i swoim obietnicom."
+        },
+        {
+          "type": "paragraph",
+          "number": 213,
+          "content": "Objawienie niewypowiedzianego imienia \"Ja Jestem Tym, Który Jestem\" zawiera więc prawdę, że tylko Bóg JEST. W tym sensie rozumiano imię Boże w tłumaczeniu Septuaginty, a następnie w Tradycji Kościoła: Bóg jest pełnią Bytu i wszelkiej doskonałości, bez początku i bez końca. Podczas gdy wszystkie stworzenia otrzymały od Niego to wszystko, czym są i co posiadają, On sam jest swoim bytem i z siebie samego jest tym wszystkim, czym jest."
+        },
+        {
+          "type": "label",
+          "content": "III. Bóg, \"Ten, Który Jest\", jest Prawdą i Miłością"
+        },
+        {
+          "type": "paragraph",
+          "number": 214,
+          "content": "Bóg, \"Ten, Który Jest\", objawił się Izraelowi jako Ten, który jest \"bogaty w łaskę i wierność\" (Wj 34, 6). Te dwa pojęcia wyrażają w sposób zwarty bogactwo imienia Bożego. We wszystkich swych dziełach Bóg pokazuje swoją życzliwość, dobroć, łaskę, miłość, ale także swoją wiarygodność, stałość, wierność, prawdę. \"Będę dziękował Twemu imieniu za łaskę Twoją i wierność\" (Ps 138, 2). Bóg jest Prawdą, ponieważ \"jest światłością, a nie ma w Nim żadnej ciemności\" (1 J 1, 5); On jest \"miłością\", jak uczy św. Jan Apostoł (1 J 4, 8)."
+        },
+        {
+          "type": "label",
+          "content": "Bóg jest Prawdą"
+        },
+        {
+          "type": "paragraph",
+          "number": 215,
+          "content": " \"Podstawą Twego słowa jest prawda, i wieczny jest każdy Twój sprawiedliwy wyrok\" (Ps 119,160). \"O Panie mój, Boże, Tyś Bogiem, Twoje słowa są prawdą\" (2 Sm 7, 28); dlatego zawsze spełniają się Boże obietnice. Bóg jest samą Prawdą, Jego słowa nie mogą mylić. Właśnie dlatego we wszystkim z pełnym zaufaniem można powierzyć się prawdzie i wierności Jego słowa. Początkiem grzechu i upadku człowieka było kłamstwo kusiciela, który doprowadził do zwątpienia w słowo Boga, w Jego życzliwość i wierność."
+        },
+        {
+          "type": "paragraph",
+          "number": 216,
+          "content": "Prawda Boga jest Jego mądrością, która kieruje całym porządkiem stworzenia i rządzenia światem. Tylko Bóg, który stworzył niebo i ziemię, może sam dać prawdziwe poznanie każdej rzeczy stworzonej w jej relacji do Niego."
+        },
+        {
+          "type": "paragraph",
+          "number": 217,
+          "content": "Bóg jest prawdziwy także wtedy, gdy się objawia: nauka, która pochodzi od Boga, jest nauką prawdy. Pośle On swojego Syna, \"aby dać świadectwo prawdzie\" (J 18, 37). \"Wiemy... że Syn Boży przyszedł i obdarzył nas zdolnością rozumu, abyśmy poznawali Prawdziwego\" (1 J 5, 20)."
+        },
+        {
+          "type": "label",
+          "content": "Bóg jest Miłością"
+        },
+        {
+          "type": "paragraph",
+          "number": 218,
+          "content": "W ciągu swej historii Izrael mógł odkryć, że Bóg miał tylko jeden powód, aby mu się objawić i wybrać go spośród wszystkich ludów, by był Jego ludem; tym powodem była Jego darmo dana miłość. Dzięki prorokom zrozumiał też Izrael, że Bóg z miłości nie przestał go zbawiać oraz przebaczać mu jego niewierności i grzechów."
+        },
+        {
+          "type": "paragraph",
+          "number": 219,
+          "content": " Miłość Boga do Izraela jest porównana do miłości ojca do syna. Ta Boża miłość jest mocniejsza niż miłość matki do dzieci. Bóg miłuje swój lud bardziej niż oblubieniec swoją oblubienicę; miłość ta będzie zwyciężać nawet największe niewierności 26 , aż do udzielenia najcenniejszego daru: \"Tak bowiem Bóg umiłował świat, że Syna swego Jednorodzonego dał\" (J 3, 16)."
+        },
+        {
+          "type": "paragraph",
+          "number": 220,
+          "content": "Miłość Boża jest \"wieczysta\" (Iz 54, 8): \"Bo góry mogą ustąpić i pagórki się zachwiać, ale miłość moja nie odstąpi od ciebie\" (Iz 54, 10). \"Ukochałem cię odwieczną miłością, dlatego też zachowałem dla ciebie łaskawość\" (Jr 31, 3)."
+        },
+        {
+          "type": "paragraph",
+          "number": 221,
+          "content": "Święty Jan pójdzie jeszcze dalej, gdy zaświadczy: \"Bóg jest miłością\" (1 J 4, 8. 16): miłość jest samą istotą Boga. Posyłając w pełni czasów swojego jedynego Syna i Ducha miłości, Bóg objawia swoją najbardziej wewnętrzną tajemnicę: jest wieczną wymianą miłości - Ojcem, Synem i Duchem Świętym, a nas przeznaczył do udziału w tej wymianie."
+        },
+        {
+          "type": "label",
+          "content": "IV. Konsekwencje wiary w Jedynego Boga"
+        },
+        {
+          "type": "paragraph",
+          "number": 222,
+          "content": "Wiara w Boga, Jedynego, i miłowanie Go całą swoją istotą ma ogromne konsekwencje dla całego naszego życia:"
+        },
+        {
+          "type": "paragraph",
+          "number": 223,
+          "content": "Poznawać wielkość i majestat Boga: \"Wielki jest Bóg, choć nieznany\" (Hi 36, 26). Dlatego \"na pierwszym miejscu trzeba służyć Bogu\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 224,
+          "content": "Żyć w dziękczynieniu: jeśli Bóg jest Jedyny, to wszystko, czym jesteśmy i co posiadamy, pochodzi od Niego: \"Cóż masz, czego byś nie otrzymał?\" (1 Kor 4, 7). \"Cóż oddam Panu za wszystko, co mi wyświadczył?\" (Ps 116,12)."
+        },
+        {
+          "type": "paragraph",
+          "number": 225,
+          "content": "Poznawać jedność i prawdziwą godność wszystkich ludzi: wszyscy oni zostali uczynieni \"na obraz i podobieństwo Boże\" (Rdz 1, 26)."
+        },
+        {
+          "type": "paragraph",
+          "number": 226,
+          "content": "Dobrze użytkować rzeczy stworzone: wiara w Jedynego Boga pozwala nam na używanie wszystkiego, co Nim nie jest, w takiej mierze, w jakiej zbliża nas do Niego, a także na odrywanie się od wszystkiego w takiej mierze, w jakiej nas od Niego oddala:"
+        },
+        {
+          "type": "comment",
+          "content": "Mój Panie i Boże, zabierz mi wszystko, co oddala mnie od Ciebie. Mój Panie i Boże, daj mi to wszystko, co zbliża mnie do Ciebie. Mój Panie i Boże, oderwij mnie ode mnie samego i oddaj mnie całkowicie Tobie."
+        },
+        {
+          "type": "paragraph",
+          "number": 227,
+          "content": "Okazywać Bogu zaufanie we wszystkich okolicznościach, a nawet w przeciwnościach. Wyraża to wspaniale modlitwa św. Teresy od Jezusa:"
+        },
+        {
+          "type": "quote",
+          "content": "Niech nic cię nie niepokoi, / niech nic cię nie przeraża.\r\nWszystko mija, / Bóg się nie zmienia.\r\nCierpliwość osiąga wszystko. / Temu, kto ma Boga,\r\nNie brakuje niczego. / Bóg sam wystarcza"
+        },
+        {
+          "type": "label",
+          "content": "W skrócie"
+        },
+        {
+          "type": "paragraph",
+          "number": 228,
+          "content": "\"Słuchaj, Izraelu, Pan jest naszym Bogiem - Panem jedynym...\" (Pwt 6, 4; Mk 12, 29). \" Trzeba koniecznie, aby Byt najwyższy był jedyny, to znaczy nie mający sobie równego... Gdyby Bóg nie był jedyny, nie byłby Bogiem\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 229,
+          "content": "Wiara w Boga prowadzi nas do zwrócenia się do Niego samego jako naszego pierwszego początku i ostatecznego celu oraz do nieprzedkładania niczego ponad Boga i do niezastępowania Go niczym."
+        },
+        {
+          "type": "paragraph",
+          "number": 230,
+          "content": "Bóg, objawiając się, pozostaje niewyrażalną Tajemnicą: \"Gdybyś Go zrozumiał, nie byłby Bogiem\","
+        },
+        {
+          "type": "paragraph",
+          "number": 231,
+          "content": "Bóg naszej wiary objawił się jako Ten, który Jest; pozwolił się poznać jako \"bogaty w łaskę i wierność\" ( Wj 34, 6). Sam Jego Byt jest Prawdą i Miłością."
+        },
+        {
+          "type": "article",
+          "content": "Paragraf drugi\n\nOJCIEC"
+        },
+        {
+          "type": "label",
+          "content": "I. W imię Ojca i Syna, i Ducha Świętego"
+        },
+        {
+          "type": "paragraph",
+          "number": 232,
+          "content": "Chrześcijanie są chrzczeni \"w imię Ojca i Syna, i Ducha Świętego\" (Mt 28, 19). Najpierw odpowiadają \"Wierzę\" na trzykrotne pytanie, które wymaga od nich wyznania wiary w Ojca, Syna i Ducha Świętego. Fides omnium christianorum in Trinitate consistit - \"Wiara wszystkich chrześcijan opiera się na Trójcy Świętej\""
+        },
+        {
+          "type": "paragraph",
+          "number": 233,
+          "content": "Chrześcijanie są chrzczeni \"w imię\" - a nie \"w imiona\" - Ojca i Syna, i Ducha Świętego 35 , ponieważ jest tylko jeden Bóg, Ojciec wszechmogący, i Jego jedyny Syn, i Duch Święty: Trójca Święta."
+        },
+        {
+          "type": "paragraph",
+          "number": 234,
+          "content": "Tajemnica Trójcy Świętej stanowi centrum wiary i życia chrześcijańskiego. Jest tajemnicą Boga w sobie samym, a więc źródłem wszystkich innych tajemnic wiary oraz światłem, które je oświeca. Tajemnica ta jest najbardziej podstawowym i istotnym nauczaniem w \"hierarchii prawd wiary\". \"Cała historia zbawienia nie jest niczym innym, jak historią drogi i środków, przez które prawdziwy i jedyny Bóg, Ojciec, Syn i Duch Święty, objawia się, pojednuje i jednoczy ze sobą ludzi, którzy odwracają się od grzechu\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 235,
+          "content": "W niniejszym paragrafie zostanie krótko wyłożone, w jaki sposób została objawiona tajemnica Trójcy Świętej (II), jak Kościół sformułował naukę wiary o tej tajemnicy (III), i w końcu, jak przez Boskie posłania Syna i Ducha Świętego Bóg Ojciec spełnia \"zamysł życzliwości\" stworzenia, odkupienia i uświęcenia (IV)."
+        },
+        {
+          "type": "paragraph",
+          "number": 236,
+          "content": " Ojcowie Kościoła rozróżniają Teologię (Theologia) i Ekonomię (Oikonomia), określając pierwszym pojęciem tajemnicę wewnętrznego życia Boga-Trójcy, a drugim wszystkie dzieła Boże, przez które On się objawia i udziela swego życia. Przez Ekonomię objawiła się nam Teologia; i na odwrót, Teologia wyjaśnia całą Ekonomię. Dzieła Boga objawiają, kim On jest w sobie samym; i na odwrót - tajemnica Jego wewnętrznego Bytu oświeca rozumienie wszystkich Jego dzieł. Analogicznie jest również między osobami ludzkimi. Osoba ukazuje się w swoim działaniu, a im lepiej znamy osobę, tym lepiej rozumiemy jej działanie."
+        },
+        {
+          "type": "paragraph",
+          "number": 237,
+          "content": "Trójca jest tajemnicą wiary w sensie ścisłym, jedną z \"ukrytych tajemnic Boga, które nie mogą być poznane, jeśli nie są objawione przez Boga\". Oczywiście, Bóg zostawił ślady swego trynitarnego bytu w swoim dziele stworzenia i w swoim Objawieniu w Starym Testamencie. Wewnętrzność Jego Bytu jako Trójcy Świętej stanowi tajemnicę niedostępną dla samego rozumu, a nawet dla wiary Izraela przed wcieleniem Syna Bożego i posłaniem Ducha Świętego."
+        },
+        {
+          "type": "label",
+          "content": "II. Objawienie Boga jako Trójcy"
+        },
+        {
+          "type": "label",
+          "content": "Ojciec objawiony przez Syna"
+        },
+        {
+          "type": "paragraph",
+          "number": 238,
+          "content": "Wzywanie Boga jako \"Ojca\" jest znane w wielu religiach. Bóstwo często jest uważane za \"ojca bogów i ludzi\". W Izraelu Bóg jest nazywany Ojcem, dlatego że jest Stwórcą świata. Bóg jest Ojcem jeszcze bardziej z racji Przymierza i daru Prawa danego Izraelowi, Jego \"synowi pierworodnemu\" (Wj 4, 22). Jest także nazywany Ojcem króla Izraela. W sposób zupełnie szczególny jest \"Ojcem ubogich\", sierot i wdów, którzy są objęci Jego miłującą opieką"
+        },
+        {
+          "type": "paragraph",
+          "number": 239,
+          "content": "Określając Boga imieniem \"Ojciec\", język wiary wskazuje przede wszystkim na dwa aspekty: że Bóg jest pierwszym początkiem wszystkiego i transcendentnym autorytetem oraz że równocześnie jest dobrocią i miłującą troską obejmującą wszystkie swoje dzieci. Ta ojcowska tkliwość Boga może być wyrażona w obrazie macierzyństwa, który jeszcze bardziej uwydatnia immanencję Boga, czyli bliskość między Bogiem i stworzeniem. Język wiary czerpie więc z ludzkiego doświadczenia rodziców, którzy w pewien sposób są dla człowieka pierwszymi przedstawicielami Boga. Jednak doświadczenie to mówi także, że rodzice ziemscy są omylni i że mogą zdeformować oblicze ojcostwa i macierzyństwa. Należy więc przypomnieć, że Bóg przekracza ludzkie rozróżnienie płci. Nie jest ani mężczyzną, ani kobietą, jest Bogiem. Przekracza także ludzkie ojcostwo i macierzyństwo, chociaż jest ich początkiem i miarą: nikt nie jest ojcem tak jak Bóg."
+        },
+        {
+          "type": "paragraph",
+          "number": 240,
+          "content": "Jezus objawił, że Bóg jest \"Ojcem\" w niezwykłym sensie; jest Nim nie tylko jako Stwórca; jest On wiecznie Ojcem w relacji do swojego jedynego Syna, który wzajemnie wiecznie jest Synem tylko w relacji do swego Ojca: \"Nikt nie zna Syna, tylko Ojciec, ani Ojca nikt nie zna, tylko Syn i ten, komu Syn zechce objawić\" (Mt 11, 27)."
+        },
+        {
+          "type": "paragraph",
+          "number": 241,
+          "content": "Dlatego właśnie Apostołowie wyznają Jezusa jako Słowo, które na początku było u Boga i jest Bogiem, jako \"obraz Boga niewidzialnego\" (Kol 1,15), jako \"odblask Jego chwały i odbicie Jego istoty\" (Hbr 1, 3)."
+        },
+        {
+          "type": "paragraph",
+          "number": 242,
+          "content": "W ślad za nimi, zgodnie z Tradycją apostolską, Kościół wyznał w 325 r. na pierwszym soborze powszechnym w Nicei, że Syn jest \"współistotny\" Ojcu, czyli że jest z Nim jednym Bogiem. Drugi sobór powszechny zgromadzony w Konstantynopolu w 381 r. zachował to wyrażenie w swoim sformułowaniu Credo nicejskiego i wyznał, że wierzy w \"Syna Bożego Jednorodzonego, który z Ojca jest zrodzony przed wszystkimi wiekami, Bóg z Boga, Światłość ze Światłości, Bóg prawdziwy z Boga prawdziwego, zrodzony, a nie stworzony, współistotny Ojcu\"."
+        },
+        {
+          "type": "label",
+          "content": "Ojciec i Syn objawieni przez Ducha"
+        },
+        {
+          "type": "paragraph",
+          "number": 243,
+          "content": "Przed swoją Paschą Jezus zapowiada zesłanie \"innego Parakleta\" (Rzecznika), Ducha Świętego. Duch, który działa począwszy od stworzenia 47 , a niegdyś \"mówił przez proroków\", będzie teraz z uczniami i będzie w nich, aby ich nauczyć wszystkiego i prowadzić \"do całej prawdy\" (J 16, 13). W ten sposób Duch Święty jest objawiony jako odrębna Osoba Boska w relacji do Jezusa i do Ojca."
+        },
+        {
+          "type": "paragraph",
+          "number": 244,
+          "content": "Wieczny początek Ducha objawia się w Jego ziemskim posłaniu. Duch Święty zostaje posłany do Apostołów i do Kościoła, zarówno przez Ojca w imieniu Syna, jak i osobiście przez Syna po Jego powrocie do Ojca. Posłanie Osoby Ducha po uwielbieniu Jezusa objawia w pełni tajemnicę Trójcy Świętej."
+        },
+        {
+          "type": "paragraph",
+          "number": 245,
+          "content": "Wiara apostolska dotycząca Ducha Świętego została wyznana przez drugi sobór powszechny w Konstantynopolu w 381 r.: \"Wierzymy w Ducha Świętego, Pana i Ożywiciela, który od Ojca pochodzi\". Kościół uznaje w ten sposób Ojca za \"źródło i początek całej Boskości\". Wieczny początek Ducha Świętego nie jest jednak bez związku z początkiem Syna: \"Duch Święty, który jest Trzecią Osobą Trójcy, jest Bogiem, jednym i równym Ojcu i Synowi, z tej samej substancji i z tej samej natury... Nie mówi się, że jest tylko Duchem Ojca, ale Duchem Ojca i Syna\". Credo Nicejsko-Konstantynopolitańskie Kościoła wyznaje: \"Z Ojcem i Synem wspólnie odbiera uwielbienie i chwałę\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 246,
+          "content": "Credo tradycji łacińskiej wyznaje, że Duch Święty \"pochodzi od Ojca i Syna (Filioque)\". Sobór Florencki w 1439 r. precyzuje: \"Duch Święty... swoją istotę i swój samoistny byt ma równocześnie od Ojca i od Syna i wiecznie pochodzi od Ojca, jak i od Syna jako od jednego Początku i jednego Tchnienia... A ponieważ wszystko to, co jest Ojca, oprócz bycia Ojcem, Ojciec sam dał swemu jedynemu Synowi, rodząc Go, dlatego Syn ma także odwiecznie od Ojca to, że Duch Święty pochodzi od Niego w sposób wieczny jak od Ojca\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 247,
+          "content": "Formuła Filioque nie występuje w Symbolu wyznanym w 381 r. w Konstantynopolu. Idąc jednak za starożytną tradycją łacińską i aleksandryjską, św. Leon Wielki, papież, wyznał ją dogmatycznie już w 447 r. 58 , zanim jeszcze Rzym uznał i przyjął w 451 r. na soborze w Chalcedonie Symbol z 381 r. Użycie tej formuły w Credo powoli przyjmowało się w liturgii łacińskiej (między VIII a XI wiekiem). Wprowadzenie Filioque do Symbolu Nicejsko-Konstantynopolitańskiego przez liturgię łacińską stanowi jednak jeszcze dzisiaj punkt rozbieżności z Kościołami prawosławnymi."
+        },
+        {
+          "type": "paragraph",
+          "number": 248,
+          "content": "radycja wschodnia wyraża przede wszystkim, że Ojciec w relacji do Ducha jest pierwszym początkiem. Wyznając Ducha jako \"pochodzącego od Ojca\" (J 15, 26), stwierdza ona, że Duch pochodzi od Ojca przez Syna. Tradycja zachodnia wyraża przede wszystkim współistotną komunię między Ojcem i Synem, mówiąc, że Duch Święty pochodzi od Ojca i Syna (Filioque). Mówi to \"w sposób dozwolony i racjonalny\", ponieważ wieczny porządek Osób Boskich w Ich współistotnej komunii zakłada, że Ojciec jest pierwszym początkiem Ducha Świętego jako \"zasada bez zasady\", ale także że jako Ojciec jedynego Syna jest wraz z Nim \"jedyną zasadą, od której pochodzi Duch Święty\". Ta uprawniona komplementarność, jeśli nie jest zbyt schematyczna, nie narusza tożsamości wiary w rzeczywistość samej wyznawanej tajemnicy."
+        },
+        {
+          "type": "label",
+          "content": "III. Trójca Święta w nauce wiary"
+        },
+        {
+          "type": "label",
+          "content": "Formowanie się dogmatu trynitarnego"
+        },
+        {
+          "type": "paragraph",
+          "number": 249,
+          "content": "Objawiona prawda Trójcy Świętej znajduje się od początku u źródeł żywej wiary Kościoła, przede wszystkim za pośrednictwem chrztu: Znajduje ona swój wyraz w chrzcielnej regule wiary, sformułowanej w przepowiadaniu, katechezie i modlitwie Kościoła. Takie sformułowania znajdują się już w pismach apostolskich, jak świadczy o tym pozdrowienie przyjęte w liturgii eucharystycznej: \"Łaska Pana Jezusa Chrystusa, miłość Boga i dar jedności w Duchu Świętym niech będą z wami wszystkimi\" (2 Kor 13, 13)."
+        },
+        {
+          "type": "paragraph",
+          "number": 250,
+          "content": "W ciągu pierwszych wieków Kościół starał się wyraźniej sformułować swoją wiarę trynitarną, zarówno w celu pogłębienia własnego rozumienia wiary, jak również w celu obrony jej przed błędami, które ją zniekształcały. Było to dziełem pierwszych soborów, wspomaganych przez refleksję teologiczną Ojców Kościoła i podtrzymywanych zmysłem wiary ludu chrześcijańskiego."
+        },
+        {
+          "type": "paragraph",
+          "number": 251,
+          "content": "Dla sformułowania dogmatu Trójcy Świętej Kościół musiał rozwinąć własną terminologię za pomocą pojęć filozoficznych: \"substancja\", \"osoba\" lub \"hipostaza\", \"relacja\" itd. Czyniąc to, nie podporządkował wiary mądrości ludzkiej, ale nadał nowy, niezwykły sens tym pojęciom, przeznaczonym odtąd także do oznaczania niewypowiedzianej tajemnicy, która \"nieskończenie przekracza to, co my po ludzku możemy pojąć\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 252,
+          "content": "Kościół posługuje się pojęciem \"substancja\" (oddawanym niekiedy także przez \"istota\" lub \"natura\"), by określić Boski Byt w jego jedności, pojęciem \"osoba\" lub \"hipostaza\", by określić Ojca, Syna i Ducha Świętego w tym, czym rzeczywiście różnią się między sobą, a pojęciem \"relacja\", by określić fakt, że rozróżnienie Osób Boskich opiera się na Ich wzajemnym odniesieniu do siebie."
+        },
+        {
+          "type": "label",
+          "content": "Dogmat Trójcy Świętej"
+        },
+        {
+          "type": "paragraph",
+          "number": 253,
+          "content": "Trójca jest jednością. Nie wyznajemy trzech bogów, ale jednego Boga w trzech Osobach: \"Trójcę współistotną\". Osoby Boskie nie dzielą między siebie jedynej Boskości, ale każda z nich jest całym Bogiem: \"Ojciec jest tym samym, co Syn, Syn tym samym, co Ojciec, Duch Święty tym samym, co Ojciec i Syn, to znaczy jednym Bogiem co do natury\". \"Każda z trzech Osób jest tą rzeczywistością, to znaczy substancją, istotą lub naturą Bożą\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 254,
+          "content": "Osoby Boskie rzeczywiście różnią się między sobą. \"Bóg jest jedyny, ale nie jakby samotny\" (quasi solitarius). \"Ojciec\", \"Syn\", \"Duch Święty\" nie są tylko imionami oznaczającymi sposoby istnienia Boskiego Bytu, ponieważ te Osoby rzeczywiście różnią się między sobą: \"Ojciec nie jest tym samym, kim jest Syn, Syn tym samym, kim Ojciec, ani Duch Święty tym samym, kim Ojciec czy Syn\". Różnią się między sobą relacjami pochodzenia: \"Ojciec jest Tym, który rodzi; Syn Tym, który jest rodzony; Duch Święty Tym, który pochodzi\". Jedność Boska jest trynitarna."
+        },
+        {
+          "type": "paragraph",
+          "number": 255,
+          "content": "Osoby Boskie pozostają we wzajemnych relacjach. Rzeczywiste rozróżnienie Osób Boskich - ponieważ nie dzieli jedności Bożej - polega jedynie na relacjach, w jakich pozostaje jedna z nich w stosunku do innych: \"W relacyjnych imionach Osób Boskich Ojciec jest odniesiony do Syna, Syn do Ojca, Duch Święty do Ojca i Syna; gdy mówimy o tych trzech Osobach, rozważając relacje, wierzymy jednak w jedną naturę, czyli substancję\". Rzeczywiście, \"wszystko jest (w Nich) jednym, gdzie nie zachodzi przeciwstawność relacji\". Z powodu tej jedności Ojciec jest cały w Synu, cały w Duchu Świętym; Syn jest cały w Ojcu, cały w Duchu Świętym; Duch Święty jest cały w Ojcu, cały w Synu\""
+        },
+        {
+          "type": "paragraph",
+          "number": 256,
+          "content": "Święty Grzegorz z Nazjanzu, nazywany również \"Teologiem\", przekazuje katechumenom w Konstantynopolu następujące streszczenie wiary trynitarnej:"
+        },
+        {
+          "type": "quote",
+          "content": "Przede wszystkim strzeżcie tego cennego depozytu, dla którego żyję i walczę, z którym pragnę umrzeć, który pozwala mi znosić wszelkie cierpienia i gardzić wszystkimi przyjemnościami. Mam na myśli wyznanie wiary w Ojca i Syna, i Ducha Świętego. Dzisiaj powierzam je wam. Przez to wyznanie za chwilę zanurzę was w wodzie i was z niej podniosę. Daję je wam po to, by towarzyszyło i patronowało wam przez całe życie. Daję wam jedno Bóstwo i Potęgę, Jednego istniejącego w Trzech i zawierającego Trzech na różny sposób. Bóstwo bez różnicy substancji czy natury, stopnia wyższego, który podnosi, ani stopnia niższego, który poniża... Nieskończona współnaturalność Trzech nieskończonych. Cały Bóg w każdym z osobna... Bóg Trójjedyny ujmowany jako całość... Nie zacząłem jeszcze myśleć o Jedności, a już Trójca ogarnia mnie swoim blaskiem. Nie zacząłem jeszcze myśleć o Trójcy, a już obejmuje mnie Jedność..."
+        },
+        {
+          "type": "label",
+          "content": "IV. Dzieła Boże i posłania trynitarne"
+        },
+        {
+          "type": "paragraph",
+          "number": 257,
+          "content": "O lux, beata Trinitas et principalis Unitas! - \"O Światłości, Trójco Święta, pierwotna Jedności!\" Bóg jest wiecznym szczęściem, nieśmiertelnym życiem, światłem nie znającym zachodu. Bóg jest Miłością: Ojciec, Syn i Duch Święty. Bóg chce w sposób wolny udzielać chwały swego szczęśliwego życia. Taki jest Jego \"zamysł życzliwości\", który powziął przed stworzeniem świata w swoim umiłowanym Synu, przeznaczając \"nas dla siebie jako przybranych synów przez Jezusa Chrystusa\" (Ef 1, 4-5), abyśmy stali się \"na wzór obrazu Jego Syna\" (Rz 8, 29), dzięki duchowi \"przybrania za synów\" (Rz 8, 15). Zamysł ten jest \"łaską, która nam dana została... przed wiecznymi czasami\" (2 Tm 1, 9), mającą swoje źródło w miłości trynitarnej. Rozwija się on w dziele stworzenia, w całej historii zbawienia po upadku człowieka, w posłaniu Syna i Ducha Świętego, a przedłużeniem tego posłania jest posłanie Kościoła."
+        },
+        {
+          "type": "paragraph",
+          "number": 258,
+          "content": "Cała ekonomia Boża jest wspólnym dziełem trzech Osób Bożych. Podobnie bowiem, jak Trójca ma jedną i tę samą naturę, tak ma również jedno i to samo działanie. \"Ojciec, Syn i Duch Święty nie są trzema zasadami stworzeń, ale jedną zasadą\". Każda jednak Osoba Boża wypełnia wspólne dzieło według swojej osobowej właściwości. W ten sposób Kościół, powołując się na Nowy Testament, wyznaje: \"Jeden jest Bóg i Ojciec, od którego wszystko pochodzi; jeden Pan Jezus Chrystus, dla którego jest wszystko; jeden Duch Święty, w którym jest wszystko\". Właściwości Osób Boskich objawiają się przede wszystkim w Boskich posłaniach wcielenia Syna i daru Ducha Świętego."
+        },
+        {
+          "type": "paragraph",
+          "number": 259,
+          "content": "Cała ekonomia Boża, dzieło zarazem wspólne i osobowe, pozwala poznać właściwości Osób Bożych oraz Ich jedną naturę. Także całe życie chrześcijańskie jest komunią z każdą z Osób Bożych, bez jakiegokolwiek ich rozdzielenia. Kto oddaje chwałę Ojcu, czyni to przez Syna w Duchu Świętym; kto idzie za Chrystusem, czyni to, ponieważ Ojciec go pociąga, a Duch porusza."
+        },
+        {
+          "type": "paragraph",
+          "number": 260,
+          "content": "Celem ostatecznym całej ekonomii Bożej jest wejście stworzeń do doskonałej jedności Trójcy Świętej. Ale już teraz jesteśmy wezwani, by być mieszkaniem Najświętszej Trójcy: \"Jeśli Mnie kto miłuje, będzie zachowywał moją naukę, a Ojciec mój umiłuje go i przyjdziemy do niego, i będziemy u niego przebywać\" (J 14, 23)."
+        },
+        {
+          "type": "quote",
+          "content": "O Boże mój, Trójco Przenajświętsza, którą uwielbiam, dopomóż mi zapomnieć zupełnie o sobie samej, abym mogła zamieszkać w Tobie nieporuszona i spokojna, jakby moja dusza była już w wieczności. Oby nic nie zmąciło mego pokoju i nie wyprowadziło mnie z Ciebie, o mój Niezmienny, ale niech każda minuta zanurza mnie coraz bardziej w głębokości Twojej Tajemnicy. Napełnij pokojem moją duszę. Uczyń z niej swoje niebo, swoje umiłowane mieszkanie i miejsce swego spoczynku. Obym tam nigdy nie zostawiła Ciebie samego, lecz abym tam była cała, cała żyjąca wiarą, cała adorująca, cała poddana Twemu stwórczemu działaniu 85 ."
+        },
+        {
+          "type": "label",
+          "content": "W skrócie"
+        },
+        {
+          "type": "paragraph",
+          "number": 261,
+          "content": "Tajemnica Trójcy Świętej stanowi centrum tajemnicy wiary i życia chrześcijańskiego. Tylko sam Bóg, objawiając się, może nam pozwolić poznać się jako Ojciec, Syn i Duch Święty."
+        },
+        {
+          "type": "paragraph",
+          "number": 262,
+          "content": "Wcielenie Syna Bożego objawia, że Bóg jest wiecznym Ojcem i że Syn jest współistotny Ojcu, czyli że On jest w Nim i z Nim tym samym jedynym Bogiem."
+        },
+        {
+          "type": "paragraph",
+          "number": 263,
+          "content": "Posłanie Ducha Świętego przez Ojca w imieniu Syna 86 i przez Syna \"od Ojca\" (J 15, 26) objawia, że jest On z Ojcem i Synem tym samym jedynym Bogiem. \"(Duch Święty) z Ojcem i Synem wspólnie odbiera uwielbienie i chwałę\""
+        },
+        {
+          "type": "paragraph",
+          "number": 264,
+          "content": "\"Duch Święty pochodzi od Ojca jako pierwszego źródła, a - przez wieczny dar Ojca dla Syna - wspólnie od Ojca i Syna\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 265,
+          "content": "Przez łaskę chrztu \"w imię Ojca i Syna, i Ducha Świętego\" (Mt 28,19) zostaliśmy wezwani do uczestnictwa w życiu Trójcy Świętej, tu na ziemi w mroku wiary, a po śmierci w światłości wiecznej."
+        },
+        {
+          "type": "paragraph",
+          "number": 266,
+          "content": "\"Fides autem catholica haec est, ut unum Deum in Trinitate, et Trinitatem in unitate veneremur, neque confundentes personas, neque substantiam separantes: alia est enim persona Patris, alia Filii, alia Spiritus Sancti; sed Patris et Filii et Spiritus Sancti una est divinitas, aequalis gloria, coaeterna maiestas\" - \"Wiara katolicka polega na tym, abyśmy czcili jednego Boga w Trójcy, a Trójcę w jedności, nie mieszając Osób ani nie rozdzielając substancji: inna jest bowiem Osoba Ojca, inna Syna, inna Ducha Świętego; lecz jedno jest Bóstwo, równa chwała, współwieczny majestat Ojca i Syna, i Ducha Świętego\""
+        },
+        {
+          "type": "paragraph",
+          "number": 267,
+          "content": "Osoby Boskie, nierozdzielne w tym, kim są, są także nierozdzielne w tym, co czynią. W jednym działaniu Bożym każda Osoba Boska ukazuje jednak to, co jest Jej własne w Trójcy, przede wszystkim w Boskich posłaniach wcielenia Syna i daru Duchu Świętego."
+        },
+        {
+          "type": "article",
+          "content": "Paragraf trzeci\n\nWSZECHMOGĄCY"
+        },
+        {
+          "type": "paragraph",
+          "number": 268,
+          "content": "Spośród wszystkich przymiotów Bożych Symbol wiary wymienia tylko wszechmoc Bożą; wyznanie jej ma wielkie znaczenie dla naszego życia. Wierzymy, że wszechmoc Boża jest powszechna, ponieważ Bóg wszystko stworzył 90 , wszystkim rządzi i wszystko może; jest miłująca, ponieważ Bóg jest naszym Ojcem; jest tajemnicza, ponieważ tylko wiara może ją uznać, gdy \"w słabości się doskonali\" (2 Kor 12, 9)."
+        },
+        {
+          "type": "label",
+          "content": "\"Czyni On wszystko, co zechce\" (Ps 115, 3)"
+        },
+        {
+          "type": "paragraph",
+          "number": 269,
+          "content": "Pismo święte wielokrotnie wyznaje powszechną moc Boga. Nazywa Go \"potężnym Bogiem Jakuba\" (Rdz 49, 24; Iz 1, 24 i in.), \"Panem Zastępów\", \"Panem dzielnym i potężnym w boju\" (Ps 24, 8-10). Bóg jest wszechmogący \"na niebie i na ziemi\" (Ps 135, 6), ponieważ On sam je stworzył. Dla Niego nic nie jest niemożliwe i rozporządza On swoim dziełem zgodnie ze swoją wolą 94 . Bóg jest Panem wszechświata, którego porządek sam ustalił i który jest Mu całkowicie poddany i uległy. Jest On Władcą historii; rządzi sercami i wydarzeniami według swego upodobania. \"Potężnie działać zawsze jest w Twej mocy i któż się oprze potędze Twojego ramienia?\" (Mdr 11, 21)."
+        },
+        {
+          "type": "label",
+          "content": "\"Nad wszystkim masz litość, bo wszystko w Twej mocy\" (Mdr 11, 23)"
+        },
+        {
+          "type": "paragraph",
+          "number": 270,
+          "content": "Bóg jest Ojcem wszechmogącym. Jego ojcostwo i Jego wszechmoc wyjaśniają się wzajemnie. Istotnie, On okazuje swoją ojcowską wszechmoc, gdy troszczy się o nasze potrzeby 96 ; przez przybrane synostwo, jakiego nam udziela (\"Będę wam Ojcem, a wy będziecie moimi synami i córkami - mówi Pan wszechmogący\", 2 Kor 6,18); a wreszcie przez swoje nieskończone miłosierdzie ponieważ On najbardziej okazuje swoją wszechmoc, dobrowolnie odpuszczając grzechy."
+        },
+        {
+          "type": "paragraph",
+          "number": 271,
+          "content": "Boża wszechmoc nie jest jednak samowolna: \"W Bogu moc i istota, wola i rozum, mądrość i sprawiedliwość są tym samym, tak że nic nie może być w mocy Bożej, co nie mogłoby być w sprawiedliwej woli Bożej czy w mądrym rozumie\"."
+        },
+        {
+          "type": "label",
+          "content": "Tajemnica pozornej niemocy Boga"
+        },
+        {
+          "type": "paragraph",
+          "number": 272,
+          "content": "Wiara w Boga Ojca wszechmogącego może być wystawiona na próbę przez doświadczenie zła i cierpienia. Niekiedy Bóg może wydawać się nieobecny i niezdolny do przeciwstawienia się złu. Bóg Ojciec objawił jednak swoją wszechmoc w sposób najbardziej tajemniczy w dobrowolnym uniżeniu i w zmartwychwstaniu swego Syna, przez które zwyciężył zło. Chrystus ukrzyżowany jest więc \"mocą Bożą i mądrością Bożą. To bowiem, co jest głupstwem u Boga, przewyższa mądrością ludzi, a co jest słabe u Boga, przewyższa mocą ludzi\" (1 Kor 1, 24-25). W zmartwychwstaniu i wywyższeniu Chrystusa Ojciec \"na podstawie działania (swojej) potęgi i siły\" okazał \"przemożny ogrom mocy względem nas wierzących\" (Ef 1,19)."
+        },
+        {
+          "type": "paragraph",
+          "number": 273,
+          "content": "Jedynie wiara może przylgnąć do tajemniczych dróg wszechmocy Bożej. Ta wiara chlubi się ze swych słabości, by przyciągnąć do niej moc Chrystusa. Najdoskonalszym wzorem tej wiary jest Dziewica Maryja, która uwierzyła, że \"dla Boga... nie ma nic niemożliwego\" (Łk 1, 37), i która mogła uwielbiać Pana: \"Wielkie rzeczy uczynił mi Wszechmocny. Święte jest Jego imię\" (Łk 1, 49)."
+        },
+        {
+          "type": "paragraph",
+          "number": 274,
+          "content": "\"Nic nie może tak umocnić naszej wiary i naszej nadziei, jak głębokie przekonanie wyryte w naszych duszach, że dla Boga nie ma nic niemożliwego. Jeśli nasz rozum przyjmie myśl o Bożej wszechmocy, z łatwością i bez żadnego wahania uzna to wszystko, co następnie przedstawi nam do wierzenia (Credo): to, co największe, najbardziej niezrozumiałe i najwznioślejsze, wykraczające poza zwyczajne prawa natury\"."
+        },
+        {
+          "type": "label",
+          "content": "W skrócie"
+        },
+        {
+          "type": "paragraph",
+          "number": 275,
+          "content": "Wyznajemy ze sprawiedliwym Hiobem: \"Wiem, że Ty wszystko możesz, co zamyślasz, potrafisz uczynić\" (Hi 42, 2)."
+        },
+        {
+          "type": "paragraph",
+          "number": 276,
+          "content": "Kościół wierny świadectwu Pisma świętego często kieruje swoją modlitwę do \"wszechmogącego i wiecznego Boga\" (Omnipotens sempiterne Deus...), mocno wierząc, że nie ma nic \"niemożliwego dla Boga\" (Rdz 18, 14; Łk 1, 37; Mt 19, 26)."
+        },
+        {
+          "type": "paragraph",
+          "number": 277,
+          "content": "Bóg okazuje swoją wszechmoc, odwracając nas od naszych grzechów i przez łaskę utwierdzając nas na nowo w swojej przyjaźni \"Boże, Ty przez przebaczenie i litość najpełniej okazujesz swoją wszechmoc...\""
+        },
+        {
+          "type": "paragraph",
+          "number": 278,
+          "content": "Gdybyśmy nie wierzyli, że miłość Boża jest wszechmocna, jak moglibyśmy uwierzyć, że Ojciec mógł nas stworzyć, Syn odkupić, a Duch Święty uświęcić?"
+        },
+        {
+          "type": "article",
+          "content": "Paragraf czwarty\n\nSTWÓRCA"
+        },
+        {
+          "type": "paragraph",
+          "number": 279,
+          "content": "\"Na początku Bóg stworzył niebo i ziemię\" (Rdz 1,1). Tymi uroczystymi słowami zaczyna się Pismo święte. Symbol wiary podejmuje te słowa, wyznając Boga Ojca wszechmogącego jako \"Stwórcę nieba i ziemi\", \"wszystkich rzeczy widzialnych i niewidzialnych\". Powiemy więc najpierw o Stwórcy, następnie o Jego stworzeniu, a w końcu o upadku na skutek grzechu; by podnieść nas z tego grzechu, przyszedł Jezus Chrystus, Syn Boży."
+        },
+        {
+          "type": "paragraph",
+          "number": 280,
+          "content": "Stworzenie jest podstawą \"wszystkich zbawczych zamysłów Bożych\", \"początkiem historii zbawienia\", osiągającej punkt kulminacyjny w Chrystusie. I odwrotnie, misterium Chrystusa jest decydującym światłem oświecającym tajemnicę stworzenia; ono objawia cel, dla którego \"na początku Bóg stworzył niebo i ziemię\" (Rdz 1,1). Od początku Bóg miał na względzie chwałę nowego stworzenia w Chrystusie."
+        },
+        {
+          "type": "paragraph",
+          "number": 281,
+          "content": "Dlatego właśnie czytania Wigilii Paschalnej, celebracja nowego stworzenia w Chrystusie, zaczynają się od opisu stworzenia. W liturgii bizantyjskiej opis stworzenia stanowi zawsze pierwsze czytanie wigilii wielkich świąt Pana. Według świadectw pierwszych wieków w taki sam sposób przygotowywano katechumenów do chrztu."
+        },
+        {
+          "type": "label",
+          "content": "I. Katecheza o stworzeniu"
+        },
+        {
+          "type": "paragraph",
+          "number": 282,
+          "content": "Katecheza o stworzeniu ma pierwszorzędne znaczenie. Odnosi się do samych podstaw życia ludzkiego i chrześcijańskiego, ponieważ precyzuje odpowiedź wiary chrześcijańskiej na podstawowe pytania, jakie stawiali sobie ludzie wszystkich czasów: \"Skąd pochodzimy?\", \"Dokąd idziemy?\", \"Jaki jest nasz początek?\", \"Jaki jest nasz cel?\", \"Skąd pochodzi i dokąd zmierza wszystko, co istnieje?\" Dwa pytania: pytanie o początek i pytanie o cel, są nierozdzielne. Obydwa decydują o sensie i ukierunkowaniu naszego życia i naszego działania."
+        },
+        {
+          "type": "paragraph",
+          "number": 283,
+          "content": "Zagadnienie początków świata i człowieka jest przedmiotem licznych poszukiwań naukowych, które wspaniale wzbogaciły naszą wiedzę o wieku i wymiarach wszechświata, o powstawaniu form żywych, o pojawieniu się człowieka. Odkrycia te skłaniają nas do coraz głębszego podziwu dla wielkości Stwórcy, do dziękczynienia za wszystkie Jego dzieła oraz za rozum i mądrość, jakich udziela On uczonym i badaczom. Mogą oni powiedzieć za Salomonem: \"On mi dał bezbłędną znajomość rzeczy: poznać budowę świata i siły żywiołów... pouczyła mnie bowiem Mądrość - sprawczyni wszystkiego\" (Mdr 7, 17-21)."
+        },
+        {
+          "type": "paragraph",
+          "number": 284,
+          "content": "Na wielkie zainteresowanie tymi poszukiwaniami szczególnie silny wpływ wywierają zagadnienia dotyczące innego porządku, który przekracza zakres nauk przyrodniczych. Ważne jest nie tyle poznanie, kiedy i w jaki sposób wyłonił się kosmos, kiedy pojawił się w nim człowiek, co raczej odkrycie, jaki jest sens tego początku: czy rządzi nim przypadek, ślepe przeznaczenie, anonimowa konieczność czy też transcendentny, rozumny i dobry Byt, nazywany Bogiem. A jeżeli świat wywodzi się z mądrości i dobroci Bożej, to dlaczego istnieje zło? Skąd pochodzi? Kto jest za nie odpowiedzialny? Czy można się od niego wyzwolić?"
+        },
+        {
+          "type": "paragraph",
+          "number": 285,
+          "content": "Od początku wiara chrześcijańska została poddana konfrontacji z odpowiedziami na pytanie o pochodzenie świata, różniącymi się od jej odpowiedzi. W starożytnych religiach i kulturach znajdują się liczne mity dotyczące tego zagadnienia. Niektórzy filozofowie utrzymywali, że wszystko jest Bogiem, że świat jest Bogiem lub że stawanie się świata jest stawaniem się Boga (panteizm). Inni stwierdzali, że świat jest konieczną emanacją Boga, wypływa z tego źródła i powraca do niego. Inni jeszcze przyjmowali istnienie dwóch wiecznych zasad, Dobra i Zła, Światła i Ciemności, nieustannie walczących ze sobą (dualizm, manicheizm). Według niektórych z tych koncepcji świat (a przynajmniej świat materialny) jest zły, powstał w wyniku upadku, a zatem należałoby go odrzucić lub oderwać się od niego (gnoza); inni przyjmują, że świat został uczyniony przez Boga, ale w taki sposób, jak zegar przez zegarmistrza, który uczyniwszy go, pozostawił go samemu sobie (deizm). Są wreszcie tacy, którzy nie przyjmują żadnego transcendentnego początku świata, ale widzą w nim czystą grę materii, która istniała wiecznie (materializm). Wszystkie te próby interpretacji świadczą, jak trwałe i powszechne są pytania dotyczące początków świata. Poszukiwania te są właściwe człowiekowi."
+        },
+        {
+          "type": "paragraph",
+          "number": 286,
+          "content": "Z pewnością rozum ludzki jest zdolny do znalezienia odpowiedzi na pytanie o początki świata. Istnienie Boga Stwórcy można bowiem poznać w sposób pewny z Jego dzieł, dzięki światłu rozumu ludzkiego, chociaż to poznanie często jest zaciemnione i zniekształcone przez błąd. Dlatego wiara przychodzi, by umocnić i oświecić rozum w poprawnym poznaniu tej prawdy: \"Przez wiarę poznajemy, że słowem Boga światy zostały tak stworzone, iż to, co widzimy, powstało nie z rzeczy widzialnych\" (Hbr 11, 3)."
+        },
+        {
+          "type": "paragraph",
+          "number": 287,
+          "content": "Prawda o stworzeniu jest tak ważna dla całego życia ludzkiego, że Bóg w swojej łaskawości zechciał objawić swojemu ludowi to wszystko, co należy koniecznie wiedzieć na ten temat. Niezależnie od naturalnego poznania Stwórcy przez człowieka Bóg stopniowo objawiał Izraelowi tajemnicę stworzenia. Ten, który wybrał patriarchów, który wyprowadził Izraela z Egiptu, a wybierając Izrael, stworzył go i uformował, objawia się jako Ten, do którego należą wszystkie ludy ziemi i cała ziemia, jako Ten, który sam \"stworzył niebo i ziemię\" (Ps 115,15;124, 8; 134, 3)."
+        },
+        {
+          "type": "paragraph",
+          "number": 288,
+          "content": "Objawienie prawdy o stworzeniu jest więc nieodłączne od Objawienia i urzeczywistnienia Przymierza Boga, Jedynego, z Jego ludem. Prawda o stworzeniu została objawiona jako początek tego Przymierza, jako pierwsze i powszechne świadectwo miłości wszechmogącego Boga. Prawda o stworzeniu wyraża się więc z coraz większą mocą w orędziu proroków, w modlitwie psalmów i w liturgii, w refleksji mądrościowej narodu wybranego."
+        },
+        {
+          "type": "paragraph",
+          "number": 289,
+          "content": "Wśród wszystkich wypowiedzi Pisma świętego o stworzeniu trzy pierwsze rozdziały Księgi Rodzaju zajmują wyjątkowe miejsce. Z literackiego punktu widzenia teksty te mogą mieć różne źródła. Autorzy natchnieni umieścili je na początku Pisma świętego, tak żeby swoim uroczystym charakterem wyrażały prawdy o stworzeniu, jego początku i jego celu w Bogu, jego uporządkowaniu i jego dobroci, o powołaniu człowieka, a w końcu prawdy o dramacie grzechu i nadziei zbawienia. Czytane w świetle Chrystusa, w jedności Pisma świętego i w żywej Tradycji Kościoła, wypowiedzi te pozostają pierwszorzędnym źródłem katechezy o tajemnicach \"początku\": stworzeniu, upadku i obietnicy zbawienia."
+        },
+        {
+          "type": "label",
+          "content": "II. Stworzenie - dzieło Trójcy Świętej"
+        },
+        {
+          "type": "paragraph",
+          "number": 290,
+          "content": "\"Na początku Bóg stworzył niebo i ziemię\" (Rdz 1,1). W tych pierwszych słowach Pisma świętego są zawarte trzy stwierdzenia: wieczny Bóg dał początek temu wszystkiemu, co istnieje poza Nim; tylko On jest Stwórcą (czasownik \"stwarzać\" - w języku hebrajskim bara - ma zawsze jako podmiot Boga). Całość tego, co istnieje (wyrażona formułą \"niebo i ziemia\"), zależy od Tego, kto daje jej istnienie."
+        },
+        {
+          "type": "paragraph",
+          "number": 291,
+          "content": "\"Na początku było Słowo... i Bogiem było Słowo... Wszystko przez Nie się stało, a bez Niego nic się nie stało\" (J 1,1-3). Nowy Testament objawia, że Bóg stworzył wszystko przez odwieczne Słowo, przez swojego umiłowanego Syna. \"W Nim zostało wszystko stworzone: i to, co w niebiosach, i to, co na ziemi... Wszystko przez Niego i dla Niego zostało stworzone. On jest przed wszystkim i wszystko w Nim ma istnienie\" (Kol 1, 16-17). Wiara Kościoła przyjmuje również stwórcze działanie Ducha Świętego: On jest \"Ożywicielem\", \"Duchem Stworzycielem\" (Veni, Creator Spiritus), \"Źródłem wszelkiego dobra\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 292,
+          "content": " Stwórcze działanie Syna i Ducha Świętego zapowiadane w Starym Testamencie, a objawione w Nowym Przymierzu, nierozdzielnie zespolone z działaniem Ojca, jest jasno potwierdzone przez regułę wiary Kościoła: \"Istnieje tylko jeden Bóg... On jest Ojcem, jest Bogiem, Stwórcą, Sprawcą, Porządkującym. On uczynił wszystko przez siebie samego, to znaczy przez swoje Słowo i przez swoją Mądrość\", \"przez Syna i Ducha\", którzy są jakby \"Jego rękami\". Stworzenie jest wspólnym dziełem Trójcy Świętej."
+        },
+        {
+          "type": "label",
+          "content": "III. \"Świat został stworzony dla chwały Bożej\""
+        },
+        {
+          "type": "paragraph",
+          "number": 293,
+          "content": "Podstawowa prawda, której Pismo święte i Tradycja nie przestają nauczać i wysławiać, głosi, że \"świat został stworzony dla chwały Bożej\". Bóg stworzył wszystko - wyjaśnia św. Bonawentura - \"nie po to, by powiększyć chwałę, ale by ją ukazać i udzielić jej\". Jedynym powodem, dla którego Bóg stwarza, jest Jego miłość i dobroć: \"Kluczem miłości otworzył swoją dłoń, by dokonać dzieła stworzenia\". Sobór Watykański I wyjaśnia:"
+        },
+        {
+          "type": "quote",
+          "content": "Jedyny i prawdziwy Bóg, w swojej dobroci i swoją wszechmocną potęgą, nie dla powiększenia lub osiągnięcia własnego szczęścia, ale dla objawienia swojej doskonałości przez dobra, jakich udziela stworzeniom, całkowicie wolną decyzją, od początku czasu, stworzył z nicości dwa rodzaje stworzeń: stworzenia duchowe i materialne\"."
+        },
+        {
+          "type": "paragraph",
+          "number": 294,
+          "content": "Chwałą Boga jest to, by realizowało się ukazywanie i udzielanie Jego dobroci, ze względu na które został stworzony świat. Uczynić z nas \"przybranych synów przez Jezusa Chrystusa, według postanowienia swej woli, ku chwale majestatu swej łaski\" (Ef 1, 5-6) - taki był Boży zamysł życzliwości. \"Albowiem chwałą Boga jest człowiek żyjący, a życiem człowieka jest oglądanie Boga. Jeśli zatem objawienie się Boga przez dzieło stworzenia dało życie wszystkim istotom, jakie żyją na ziemi, o ileż bardziej objawienie się Ojca przez Słowo daje życie tym, którzy widzą Boga\". Celem ostatecznym stworzenia jest to, by Bóg, \"będący Stwórcą wszystkiego, stał się ostatecznie <<wszystkim we wszystkich>> (1 Kor 15, 28), zapewniając równocześnie i własną chwałę, i nasze szczęście\""
+        },
+        {
+          "type": "label",
+          "content": "IV. Tajemnica stworzenia"
+        },
+        {
+          "type": "label",
+          "content": "Bóg stwarza przez mądrość i miłość"
+        },
+        {
+          "type": "paragraph",
+          "number": 295,
+          "content": "Wierzymy, że Bóg stworzył świat według swojej mądrości. Świat nie powstał w wyniku jakiejś konieczności, ślepego przeznaczenia czy przypadku. Wierzymy, że pochodzi z wolnej woli Boga, który chciał dać stworzeniom uczestnictwo w swoim bycie, w swojej mądrości i dobroci: \"Boś Ty stworzył wszystko, a dzięki Twej woli istniało i zostało stworzone\" (Ap 4, 11). \"Jak liczne są dzieła Twoje, Panie! Ty wszystko mądrze uczyniłeś\" (Ps 104, 24). \"Pan jest dobry dla wszystkich i Jego miłosierdzie ogarnia wszystkie Jego dzieła\" (Ps 145, 9)."
+        },
+        {
+          "type": "label",
+          "content": "Bóg stwarza \"z niczego\""
+        },
+        {
+          "type": "paragraph",
+          "number": 296,
+          "content": "Wierzymy, że Bóg, aby stwarzać, nie potrzebuje niczego istniejącego wcześniej ani żadnej pomocy. Stworzenie nie jest także konieczną emanacją substancji Bożej. Bóg stwarza w sposób wolny \"z niczego\""
+        },
+        {
+          "type": "label",
+          "content": "Cóż nadzwyczajnego byłoby w tym, gdyby Bóg wyprowadził świat z istniejącej już wcześniej materii? Ludzki twórca, gdy otrzyma materiał, zrobi z niego wszystko, co zechce. Tymczasem moc Boga okazuje się właśnie w tym, że wychodzi On od nicości, by uczynić wszystko, co zechce."
+        },
+        {
+          "type": "paragraph",
+          "number": 297,
+          "content": "Wiara w stworzenie \"z niczego\" jest potwierdzana w Piśmie świętym jako prawda pełna obietnicy i nadziei. Matka siedmiu synów tak zachęca ich do męczeństwa:"
+        },
+        {
+          "type": "label",
+          "content": "Nie wiem, w jaki sposób znaleźliście się w moim łonie, nie ja wam dałam tchnienie i życie, a członki każdego z was nie ja ułożyłam. Stwórca świata bowiem, który ukształtował człowieka i wynalazł początek wszechrzeczy, w swojej litości ponownie odda wam tchnienie i życie, dlatego że wy gardzicie sobą teraz dla Jego praw... Proszę cię, synu, spojrzyj na niebo i na ziemię, a mając na oku wszystko, co jest na nich, zwróć uwagę na to, że z niczego stworzył je Bóg i że ród ludzki powstał w ten sam sposób (2 Mch 7, 22-23. 28)."
+        },
+        {
+          "type": "paragraph",
+          "number": 298,
+          "content": "Ponieważ Bóg może stwarzać z niczego, może także, przez Ducha Świętego, dać życie duchowe grzesznikom, stwarzając w nich serce czyste, oraz przez zmartwychwstanie udzielać życia ciałom zmarłych. On bowiem \"ożywia umarłych i to, co nie istnieje, powołuje do istnienia\" (Rz 4, 17). Ponieważ przez swoje Słowo mógł sprawić, by światło zajaśniało w ciemnościach, może również udzielić światła wiary tym, którzy Go nie znają."
+        },
+        {
+          "type": "label",
+          "content": "Bóg stwarza świat uporządkowany i dobry"
+        },
+        {
+          "type": "paragraph",
+          "number": 299,
+          "content": "Ponieważ Bóg stwarza w sposób mądry, stworzenie jest uporządkowane: \"Tyś wszystko urządził według miary i liczby, i wagi\" (Mdr 11, 20). Świat, stworzony w wiecznym Słowie i przez wieczne Słowo, będące \"obrazem Boga niewidzialnego\" (Kol 1, 15), jest przeznaczony i ofiarowany dla człowieka, będącego obrazem Boga, wezwanego do osobowej relacji z Bogiem. Nasz rozum, uczestnicząc w świetle Rozumu Bożego, może zrozumieć to, co Bóg mówi nam przez swoje stworzenie; oczywiście, nie bez wielkiego wysiłku, a także w duchu pokory i czci wobec Stwórcy oraz Jego dzieła 132 . Stworzenie wywodzące się z Bożej dobroci uczestniczy w tej dobroci (\"A Bóg widział, że wszystko, co uczynił, było dobre... bardzo dobre\": Rdz 1, 4.10.12. 18. 21. 31). Stworzenie jest więc chciane przez Boga jako dar skierowany do człowieka, jako dziedzictwo, które jest przeznaczone dla niego i powierzone mu. Kościół musiał wielokrotnie bronić prawdy o dobroci stworzenia, w tym także świata materialnego."
+        },
+        {
+          "type": "label",
+          "content": "Bóg jest transcendentny wobec stworzenia i jest w nim obecny"
+        }
+      ]
+    }
+  ]
+}
