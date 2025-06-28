@@ -26,7 +26,7 @@ class TopicsScreen extends StatelessWidget {
           ),
         ],
       ),
-      body: ListView.separated(
+      body: ListView.builder(
         itemBuilder: (context, index) {
           KKKTopicModel topic = topics[index];
           return ListTile(
@@ -92,9 +92,9 @@ class TopicsScreen extends StatelessWidget {
             title: Text(topic.subject),
           );
         },
-        separatorBuilder: (context, int) {
-          return const Divider();
-        },
+        // separatorBuilder: (context, int) {
+        //   return const Divider();
+        // },
         itemCount: topics.length,
       ),
     );

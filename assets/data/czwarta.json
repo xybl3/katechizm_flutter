@@ -1376,7 +1376,8 @@
         },
         {
           "type": "paragraph",
-          "content": "2761 \"Modlitwa Pańska jest rzeczywiście streszczeniem całej Ewangelii\". \"Gdy Pan przekazał nam tę formułę modlitwy, dodał: <<Proście, a będzie wam dane>> (Łk 11, 9). Każdy może więc kierować ku niebu różne modlitwy według swoich potrzeb, ale zaczynając zawsze od Modlitwy Pańskiej, która pozostaje modlitwą podstawową\"."
+          "number": 2761,
+          "content": "\"Modlitwa Pańska jest rzeczywiście streszczeniem całej Ewangelii\". \"Gdy Pan przekazał nam tę formułę modlitwy, dodał: <<Proście, a będzie wam dane>> (Łk 11, 9). Każdy może więc kierować ku niebu różne modlitwy według swoich potrzeb, ale zaczynając zawsze od Modlitwy Pańskiej, która pozostaje modlitwą podstawową\"."
         },
         {
           "type": "label",

@@ -79,7 +79,7 @@ class _ReaderScreenState extends State<ReaderScreen> {
         child = Opacity(
           opacity: 0.8,
           child: Text(
-            "Kom: ${el.content}",
+            el.content ?? "",
             style: const TextStyle(fontSize: 14),
           ),
         );
@@ -94,7 +94,7 @@ class _ReaderScreenState extends State<ReaderScreen> {
         child = Opacity(
           opacity: 0.8,
           child: Text(
-            "Cyt: ${el.content}",
+            el.content ?? "",
             style: const TextStyle(fontSize: 14),
           ),
         );
@@ -110,7 +110,8 @@ class _ReaderScreenState extends State<ReaderScreen> {
         child = const SizedBox.shrink();
     }
 
-    return Padding(padding: const EdgeInsets.all(8.0), child: child);
+    return Padding(padding: const EdgeInsets.all(12.0), child: child);
+    // return Padding(padding: const EdgeInsets.all(8.0), child: child);
   }
 
   @override
