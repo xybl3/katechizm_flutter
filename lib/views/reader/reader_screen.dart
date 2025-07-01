@@ -118,12 +118,14 @@ class _ReaderScreenState extends State<ReaderScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text(widget.chapter.name)),
-      body: Scrollbar(
-        child: ScrollablePositionedList.builder(
-          itemScrollController: _itemScrollController,
-          itemPositionsListener: _itemPositionsListener,
-          itemCount: widget.chapter.elements.length,
-          itemBuilder: (c, i) => _buildElementWidget(i),
+      body: SafeArea(
+        child: Scrollbar(
+          child: ScrollablePositionedList.builder(
+            itemScrollController: _itemScrollController,
+            itemPositionsListener: _itemPositionsListener,
+            itemCount: widget.chapter.elements.length,
+            itemBuilder: (c, i) => _buildElementWidget(i),
+          ),
         ),
       ),
     );
